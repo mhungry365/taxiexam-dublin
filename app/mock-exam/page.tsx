@@ -1,8 +1,8 @@
 import { AlertTriangle, CheckCircle2, Timer } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { QuizRunner } from "@/components/taxipass/quiz-runner";
-import { examModules, sampleQuestions } from "@/lib/taxipass-data";
+import { QuizRunner } from "@/components/taxiexam/quiz-runner";
+import { examModules, sampleQuestions } from "@/lib/taxiexam-data";
 
 export const metadata = {
   title: "Mock Exam"

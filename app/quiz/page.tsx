@@ -1,7 +1,7 @@
 import { Brain, CalendarDays, Gauge } from "lucide-react";
 import { Card } from "@/components/ui/card";
-import { QuizRunner } from "@/components/taxipass/quiz-runner";
-import { quizModes } from "@/lib/taxipass-data";
+import { QuizRunner } from "@/components/taxiexam/quiz-runner";
+import { quizModes } from "@/lib/taxiexam-data";
 
 export const metadata = {
   title: "Quiz"

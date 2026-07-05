@@ -1,4 +1,4 @@
-import { AuthForm } from "@/components/taxipass/auth-form";
+import { AuthForm } from "@/components/taxiexam/auth-form";
 
 export const metadata = {
   title: "Register"

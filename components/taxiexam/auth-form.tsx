@@ -49,7 +49,7 @@ export function AuthForm({ mode }: { mode: "login" | "register" }) {
     <Card className="mx-auto max-w-md p-6 shadow-soft">
       <h1 className="text-3xl font-black text-navy">{mode === "login" ? "Welcome back" : "Create your account"}</h1>
       <p className="mt-2 text-sm leading-6 text-muted-foreground">
-        {mode === "login" ? "Continue your TaxiPass Dublin study plan." : "Start tracking your four-week SPSV prep plan."}
+        {mode === "login" ? "Continue your TaxiExam Dublin study plan." : "Start tracking your four-week SPSV prep plan."}
       </p>
       <form onSubmit={submit} className="mt-6 grid gap-4">
         {mode === "register" && (

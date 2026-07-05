@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ArrowRight, Flame, Target } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { dashboardStats, planWeeks, weakCategories } from "@/lib/taxipass-data";
+import { dashboardStats, planWeeks, weakCategories } from "@/lib/taxiexam-data";
 
 export const metadata = {
   title: "Dashboard"

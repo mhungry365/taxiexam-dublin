@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { dashboardStats, examModules, planWeeks, quizModes, weakCategories } from "@/lib/taxipass-data";
+import { dashboardStats, examModules, planWeeks, quizModes, weakCategories } from "@/lib/taxiexam-data";
 
 export default function HomePage() {
   return (
@@ -25,7 +25,7 @@ export default function HomePage() {
               Taxi theory prep that gets you test-ready.
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-muted-foreground">
-              TaxiPass Dublin combines smart quizzes, spaced repetition, weak-question review, progress tracking, and full mock exams for the SPSV / Taxi Driver Entry Test.
+              TaxiExam Dublin combines smart quizzes, spaced repetition, weak-question review, progress tracking, and full mock exams for the SPSV / Taxi Driver Entry Test.
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <Button asChild size="lg">

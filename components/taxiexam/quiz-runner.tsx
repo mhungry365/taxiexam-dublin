@@ -5,7 +5,7 @@ import { CheckCircle2, RotateCcw, XCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
-import { sampleQuestions } from "@/lib/taxipass-data";
+import { sampleQuestions } from "@/lib/taxiexam-data";
 
 type Question = (typeof sampleQuestions)[number];
 

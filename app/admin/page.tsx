@@ -2,7 +2,7 @@ import { Download, FileJson, Plus, Search, ToggleLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
-import { sampleQuestions } from "@/lib/taxipass-data";
+import { sampleQuestions } from "@/lib/taxiexam-data";
 
 export const metadata = {
   title: "Admin"
@@ -15,7 +15,7 @@ export default function AdminPage() {
         <div className="flex flex-col justify-between gap-4 md:flex-row md:items-end">
           <div>
             <p className="font-bold text-teal">Admin dashboard</p>
-            <h1 className="mt-2 text-4xl font-black text-navy">Manage the TaxiPass question bank.</h1>
+            <h1 className="mt-2 text-4xl font-black text-navy">Manage the TaxiExam question bank.</h1>
             <p className="mt-3 max-w-2xl text-muted-foreground">Add, edit, delete, activate, import, and review questions and categories. Production access is protected by the admin role in Supabase RLS.</p>
           </div>
           <div className="flex gap-2">

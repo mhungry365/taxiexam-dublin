@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card";
-import { dublinCategories } from "@/lib/taxipass-data";
+import { dublinCategories } from "@/lib/taxiexam-data";
 
 export const metadata = {
   title: "Dublin Area Knowledge"

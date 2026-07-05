@@ -18,7 +18,7 @@ export function TopNav() {
           <span className="grid size-9 place-items-center rounded-md bg-teal text-white">
             <CarTaxiFront size={20} aria-hidden />
           </span>
-          <span>TaxiPass Dublin</span>
+          <span>TaxiExam Dublin</span>
         </Link>
         <nav className="hidden items-center gap-1 md:flex">
           {links.map(([label, href]) => (
@@ -39,7 +39,7 @@ export function AppFooter() {
   return (
     <footer className="border-t border-border bg-white">
       <div className="container flex flex-col gap-3 py-8 text-sm text-muted-foreground md:flex-row md:items-center md:justify-between">
-        <p>TaxiPass Dublin prepares learners with original practice content and progress tools.</p>
+        <p>TaxiExam Dublin prepares learners with original practice content and progress tools.</p>
         <p>Sample app content is not official NTA exam material.</p>
       </div>
     </footer>

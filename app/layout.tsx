@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { getSiteUrl } from "@/lib/site";
-import { AppFooter, TopNav } from "@/components/taxipass/top-nav";
+import { AppFooter, TopNav } from "@/components/taxiexam/top-nav";
 
 const sans = Inter({
   subsets: ["latin"],
@@ -13,8 +13,8 @@ const sans = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
   title: {
-    default: "TaxiPass Dublin | SPSV Taxi Driver Test Prep",
-    template: "%s | TaxiPass Dublin"
+    default: "TaxiExam Dublin | SPSV Taxi Driver Test Prep",
+    template: "%s | TaxiExam Dublin"
   },
   description:
     "Four-week Dublin SPSV taxi driver entry test preparation with smart quizzes, spaced repetition, weak-question review, and mock exams.",
@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
   },
   openGraph: {
-    title: "TaxiPass Dublin",
+    title: "TaxiExam Dublin",
     description: "Pass-ready SPSV and Dublin Area Knowledge practice in four weeks.",
     type: "website"
   },
   twitter: {
     card: "summary_large_image",
-    title: "TaxiPass Dublin",
+    title: "TaxiExam Dublin",
     description: "Pass-ready SPSV and Dublin Area Knowledge practice in four weeks."
   }
 };

@@ -1,0 +1,974 @@
+{
+  "id": "accessibility",
+  "title": "Learn Accessibility lesson by lesson.",
+  "eyebrow": "Accessibility module",
+  "description": "Practise wheelchair accessibility, assistance dogs, disability awareness, ramps, restraints, and passenger support.",
+  "targetQuestionCount": 31,
+  "lessons": [
+    {
+      "id": "wheelchair-safety",
+      "title": "Wheelchair Safety",
+      "intro": "Wheelchair orientation, restraints, ramps, doors, lighting and vehicle requirements.",
+      "memoryTrick": "Wheelchair safety = position, secure, light, access.",
+      "commonMistakes": [
+        "Allowing side-facing wheelchair travel",
+        "Forgetting restraints and ramp requirements"
+      ],
+      "tags": [
+        "wheelchair",
+        "safety"
+      ]
+    },
+    {
+      "id": "assistance-passengers",
+      "title": "Assistance Passengers",
+      "intro": "How to assist blind, deaf and mobility-impaired passengers professionally.",
+      "memoryTrick": "Ask, offer, explain — never grab.",
+      "commonMistakes": [
+        "Grabbing a passenger's arm",
+        "Failing to communicate clearly with deaf or blind passengers"
+      ],
+      "tags": [
+        "passenger-support",
+        "disability-awareness"
+      ]
+    },
+    {
+      "id": "assistance-dogs",
+      "title": "Guide and Assistance Dogs",
+      "intro": "Harness colours, service animals, and mandatory carriage rules.",
+      "memoryTrick": "Harness identifies the service animal.",
+      "commonMistakes": [
+        "Identifying by breed",
+        "Refusing guide or assistance dogs"
+      ],
+      "tags": [
+        "guide-dog",
+        "assistance-dog"
+      ]
+    },
+    {
+      "id": "grants-training",
+      "title": "Grants and Training",
+      "intro": "Wheelchair Accessible Vehicle grants, training, evidence and compliance.",
+      "memoryTrick": "Grant means evidence, training and ongoing compliance.",
+      "commonMistakes": [
+        "Missing disability awareness training",
+        "Forgetting grant conditions"
+      ],
+      "tags": [
+        "grant",
+        "training"
+      ]
+    },
+    {
+      "id": "final-mixed-accessibility-test",
+      "title": "Final Mixed Accessibility Test",
+      "intro": "Practise all 31 Accessibility questions together.",
+      "memoryTrick": "Passenger dignity and vehicle safety come first.",
+      "commonMistakes": [
+        "Rushing wording",
+        "Mixing vehicle standards with passenger-service rules"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "ACCESS-001",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 1,
+      "questionText": "Which way must the wheelchair and the person travelling in it be facing?",
+      "type": "single",
+      "options": [
+        "Either forwards facing or backwards facing",
+        "Facing any way",
+        "Just forward facing",
+        "Side facing"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-002",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 2,
+      "questionText": "What is NOT required by wheelchair accessible vehicles?",
+      "type": "single",
+      "options": [
+        "Anchorages and restraints",
+        "Certified disabled passenger approved driver",
+        "Visible accessibility symbol",
+        "Wheelchair ramp and lift"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-003",
+      "module": "accessibility",
+      "lessonId": "assistance-passengers",
+      "questionNumber": 3,
+      "questionText": "What do you do when you arrive to pick up a deaf person?",
+      "type": "single",
+      "options": [
+        "Nothing in particular",
+        "Call the customer",
+        "Ask where the customer is going.",
+        "Have a pen and paper available for writing down and confirming destinations with customer."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-passengers"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-004",
+      "module": "accessibility",
+      "lessonId": "assistance-dogs",
+      "questionNumber": 4,
+      "questionText": "What colour harness does an autism assistance dog have?",
+      "type": "single",
+      "options": [
+        "Blue",
+        "Yellow and White",
+        "Red",
+        "Purple"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-dogs"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-005",
+      "module": "accessibility",
+      "lessonId": "assistance-dogs",
+      "questionNumber": 5,
+      "questionText": "How would you identify a service animal?",
+      "type": "single",
+      "options": [
+        "By the breed",
+        "By the size",
+        "By their harness",
+        "You wouldn't know"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-dogs"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-006",
+      "module": "accessibility",
+      "lessonId": "grants-training",
+      "questionNumber": 6,
+      "questionText": "The NTA can withhold the Wheelchair Accessible Vehicle grant until they get:",
+      "type": "single",
+      "options": [
+        "Certificate of completion of a disability awareness training course",
+        "Certificate of Tax Compliance",
+        "Evidence of a Wheelchair Accessible Vehicle",
+        "SPSV Driver Licence"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "grants-training"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-007",
+      "module": "accessibility",
+      "lessonId": "assistance-dogs",
+      "questionNumber": 7,
+      "questionText": "What animal must you take?",
+      "type": "single",
+      "options": [
+        "A guard Dog",
+        "A caged Animal",
+        "Uncaged Animal",
+        "A guide dog"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-dogs"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-008",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 8,
+      "questionText": "If removable, wheelchair ramps must NOT be:",
+      "type": "single",
+      "options": [
+        "Left in an unsecure part of vehicle",
+        "Marked with their vehicle registration number",
+        "Suitable for manual handling",
+        "Support minimum 300kg"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-009",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 9,
+      "questionText": "Who provides the certification for seats in a wheelchair accessible SPSV Vehicle?",
+      "type": "single",
+      "options": [
+        "Lender",
+        "Any garage",
+        "NCT",
+        "Manufacturer"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-010",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 10,
+      "questionText": "Does a Wheelchair Vehicle need to gather documentary evidence for the Technical Assessor?",
+      "type": "single",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-011",
+      "module": "accessibility",
+      "lessonId": "assistance-dogs",
+      "questionNumber": 11,
+      "questionText": "What colour harness/vest does an autism service animal have?",
+      "type": "single",
+      "options": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-dogs"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-012",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 12,
+      "questionText": "What is the minimum amount of adult passengers a wheelchair accessible taxi should be able to carry if a wheelchair isn't present?",
+      "type": "single",
+      "options": [
+        "2 adult passengers",
+        "4 adults passengers",
+        "1 adult passenger",
+        "3 adult passengers"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-013",
+      "module": "accessibility",
+      "lessonId": "grants-training",
+      "questionNumber": 13,
+      "questionText": "When can the NTA withdraw the Wheelchair Vehicle grant?",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "If the recipient ceases to carry on any services",
+        "If the recipient ceases to make the wheelchair accessible SPSV available for wheelchair customers",
+        "If the recipient commits a breach of any terms or conditions, and fails to rectify such breach within 10 Working Days after written notice"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "grants-training"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-014",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 14,
+      "questionText": "Wheelchair accessible vehicles require written certification of:",
+      "type": "single",
+      "options": [
+        "Anchorages and restraints",
+        "Leg room",
+        "Luggage space",
+        "Seat height"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-015",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 15,
+      "questionText": "When there is a Wheelchair Accessible passenger how many passenger must you accommodate?",
+      "type": "single",
+      "options": [
+        "At least one person in a wheelchair and four other adult passenger",
+        "Atleast one person in a wheelchair and three other adult passenger",
+        "At least one person in a wheelchair and one other adult passenger",
+        "At least one person in a wheelchair and two other adult passenger"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-016",
+      "module": "accessibility",
+      "lessonId": "grants-training",
+      "questionNumber": 16,
+      "questionText": "Where the wheelchair accessible vehicle is driven by other than owner, the owner shall ensure that any driver of the vehicle:",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "Has attended Disability Awareness Training course",
+        "Holds an SPSV licence",
+        "Is affiliated with a licensed dispatch provider"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "grants-training"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-017",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 17,
+      "questionText": "What's the minimum number of passengers a wheelchair accessible SPSV can take without a person in wheelchair on board?",
+      "type": "single",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-018",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 18,
+      "questionText": "Wheelchair accessible require which of the following?",
+      "type": "single",
+      "options": [
+        "Hearing Aid",
+        "Lift or ramp",
+        "Oxygen Tank",
+        "Walker Assistant"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-019",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 19,
+      "questionText": "What lighting does wheelchair accessible vehicle need?",
+      "type": "single",
+      "options": [
+        "Just the front light",
+        "No lighting",
+        "Adequate targeted or localised lighting is required at entrance steps, signage and floor areas and money slots in any dividing screen.",
+        "Same as a regular Taxi"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-020",
+      "module": "accessibility",
+      "lessonId": "grants-training",
+      "questionNumber": 20,
+      "questionText": "How often do Wheelchair Vehicle grant recipients need to prove that they are within the Terms & Conditions of the Grant?",
+      "type": "single",
+      "options": [
+        "Every year",
+        "Just whenever requested",
+        "Whenever requested and every 6 months",
+        "Whenever requested and every year"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "grants-training"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-021",
+      "module": "accessibility",
+      "lessonId": "assistance-passengers",
+      "questionNumber": 21,
+      "questionText": "If you are picking up a passenger with a mobility issue what should you do?",
+      "type": "single",
+      "options": [
+        "Grab their arm",
+        "Offer your arm",
+        "Pull up on the kerb",
+        "Stop on the street"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-passengers"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-022",
+      "module": "accessibility",
+      "lessonId": "grants-training",
+      "questionNumber": 22,
+      "questionText": "Those that get the Wheelchair Accessible Vehicle grant must preference those needing to avail of the service:",
+      "type": "single",
+      "options": [
+        "FALSE",
+        "TRUE"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "grants-training"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-023",
+      "module": "accessibility",
+      "lessonId": "assistance-passengers",
+      "questionNumber": 23,
+      "questionText": "When assisting a blind person where should you offer your arm?",
+      "type": "single",
+      "options": [
+        "Above the elbow",
+        "Below the elbow"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-passengers"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-024",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 24,
+      "questionText": "How often must wheelchair ramps be tested and certified?",
+      "type": "single",
+      "options": [
+        "Every 2 years",
+        "Every 3 months",
+        "Every 6 months",
+        "Every year"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-025",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 25,
+      "questionText": "What restraints are needed for a wheelchair and the person travelling in it?",
+      "type": "single",
+      "options": [
+        "Just safety belt",
+        "Just tie downs",
+        "Tie downs for the wheelchair and a safety belt for the occupant",
+        "Wheelchair brakes"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-026",
+      "module": "accessibility",
+      "lessonId": "assistance-dogs",
+      "questionNumber": 26,
+      "questionText": "What colour is the harness of a guide dog for the blind?",
+      "type": "single",
+      "options": [
+        "All blue",
+        "Blue & red",
+        "White & blue",
+        "White & yellow"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-dogs"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-027",
+      "module": "accessibility",
+      "lessonId": "assistance-passengers",
+      "questionNumber": 27,
+      "questionText": "What do you do when you arrive to pick up a blind person?",
+      "type": "single",
+      "options": [
+        "When you pick up a customer who is blind or vision impaired, introduce yourself and use the customer’s name, if you know it. Instead, at the time of booking, you could arrange to do something like give them two rings on their telephone when you arrive and then escort them to your vehicle.",
+        "Sounds your horn when you arrive.",
+        "Refuse the job",
+        "Wait in your car for them to enter."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "assistance-passengers"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-028",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 28,
+      "questionText": "Where must the handrails be situated in a wheelchair accessible taxi?",
+      "type": "single",
+      "options": [
+        "In close proximity to the central pathway",
+        "All answers are correct",
+        "In close proximity to the doors",
+        "In close proximity to the steps"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-029",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 29,
+      "questionText": "How many wheelchair accessible doors must a wheelchair accessible vehicle have?",
+      "type": "single",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-030",
+      "module": "accessibility",
+      "lessonId": "wheelchair-safety",
+      "questionNumber": 30,
+      "questionText": "Which of the following is NOT required in a wheelchair accessible vehicle?",
+      "type": "single",
+      "options": [
+        "Ramp",
+        "Wheelchair accessible door",
+        "Slip resistant step",
+        "Oxygen tank"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "wheelchair-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "ACCESS-031",
+      "module": "accessibility",
+      "lessonId": "grants-training",
+      "questionNumber": 31,
+      "questionText": "What is the fee for not attending the free NTA provided disability awareness training course?",
+      "type": "single",
+      "options": [
+        "€100",
+        "€200",
+        "€250",
+        "€50"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the uploaded Accessibility question bank. Correct answer is based on the yellow highlighted answer.",
+      "memoryTip": "Read the accessibility requirement carefully and choose the passenger-safe option.",
+      "commonMistake": "Do not guess from normal taxi rules; wheelchair accessible vehicles and assistance passengers have specific rules.",
+      "tags": [
+        "accessibility",
+        "grants-training"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    }
+  ]
+}

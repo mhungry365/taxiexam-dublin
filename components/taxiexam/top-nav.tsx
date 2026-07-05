@@ -12,6 +12,7 @@ const links = [
   ["Question Bank", "/question-bank"],
   ["Fares", "/practice/fares"],
   ["Driver Licensing", "/practice/driver-licensing"],
+  ["Accessibility", "/practice/accessibility"],
 ];
 
 export function TopNav() {

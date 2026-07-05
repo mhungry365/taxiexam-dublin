@@ -8,6 +8,9 @@ const links = [
   ["Mock", "/mock-exam"],
   ["Dublin", "/dublin-area"],
   ["Admin", "/admin"]
+  { href: "/question-bank", label: "Question Bank" },
+  { href: "/question-bank/fares", label: "Fares" },
+  { href: "/question-bank/driver-licensing", label: "Driver Licensing" },
 ];
 
 export function TopNav() {

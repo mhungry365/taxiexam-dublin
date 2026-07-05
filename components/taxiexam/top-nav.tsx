@@ -64,3 +64,16 @@ export function TopNav() {
     </header>
   );
 }
+
+export function AppFooter() {
+  return (
+    <footer className="border-t bg-white">
+      <div className="container py-8 text-sm text-muted-foreground">
+        <p className="font-bold text-navy">TaxiExam Dublin</p>
+        <p className="mt-2">
+          Practice SPSV exam questions by category, track weak areas, and prepare with mock exams.
+        </p>
+      </div>
+    </footer>
+  );
+}

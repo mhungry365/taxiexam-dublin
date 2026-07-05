@@ -14,9 +14,9 @@ export default async function ModuleQuestionBankPage({
   params: Promise<{ moduleId: string }>;
 }) {
   const { moduleId } = await params;
-  const module = getQuestionBankModule(moduleId);
+  const questionModule = getQuestionBankModule(moduleId);
 
-  if (!module) notFound();
+  if (!questionModule) notFound();
 
   return (
     <section className="section bg-snow">
@@ -24,13 +24,13 @@ export default async function ModuleQuestionBankPage({
         <div className="mb-8">
           <p className="font-bold text-teal">Question bank</p>
           <h1 className="mt-2 text-4xl font-black text-navy">
-            {module.eyebrow.replace(" module", "")}
+            {questionModule.eyebrow.replace(" module", "")}
           </h1>
           <p className="mt-4 max-w-3xl leading-7 text-muted-foreground">
             Browse all questions in this category.
           </p>
         </div>
-        <QuestionBankBrowser initialModuleId={module.id} />
+        <QuestionBankBrowser initialModuleId={questionModule.id} />
       </div>
     </section>
   );

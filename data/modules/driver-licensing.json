@@ -8,7 +8,7 @@
     {
       "id": "compliance-and-authorities",
       "title": "Authorities and Compliance",
-      "intro": "Learn who controls, checks, and issues SPSV-related permissions.",
+      "intro": "Learn who controls, checks and issues SPSV-related permissions.",
       "memoryTrick": "Garda for driver licence, NTA for vehicle/industry framework, ComReg for radio.",
       "commonMistakes": [
         "Mixing NTA, Garda, RSA and NDLS roles",
@@ -92,7 +92,7 @@
     {
       "id": "penalties-and-offences",
       "title": "Penalties and Offences",
-      "intro": "Practise the penalty questions connected to operating or displaying identification incorrectly.",
+      "intro": "Practise penalty questions connected to operating or displaying identification incorrectly.",
       "memoryTrick": "No valid licence or forged display equals a serious penalty question.",
       "commonMistakes": [
         "Mixing maximum fines with fixed payment offences",
@@ -135,13 +135,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "compliance-and-authorities"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-002",
@@ -159,13 +163,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-003",
@@ -183,13 +191,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "compliance-and-authorities"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-004",
@@ -207,13 +219,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "driver-identification"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-005",
@@ -231,13 +247,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "vehicle-and-licence-types"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-006",
@@ -255,13 +275,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-007",
@@ -279,13 +303,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "driver-identification"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-008",
@@ -303,13 +331,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "compliance-and-authorities"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-009",
@@ -327,13 +359,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "driver-identification"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-010",
@@ -351,13 +387,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-011",
@@ -375,13 +415,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "licence-validity-renewal"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-012",
@@ -399,13 +443,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "licence-validity-renewal"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-013",
@@ -423,13 +471,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-014",
@@ -447,13 +499,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "bus-lanes-and-pickups"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-015",
@@ -471,13 +527,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "bus-lanes-and-pickups"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-016",
@@ -495,13 +555,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-017",
@@ -520,13 +584,17 @@
         0,
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "vehicle-and-licence-types"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-018",
@@ -544,13 +612,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-019",
@@ -568,13 +640,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "vehicle-and-licence-types"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-020",
@@ -592,13 +668,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "penalties-and-offences"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-021",
@@ -616,13 +696,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "licence-validity-renewal"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-022",
@@ -640,13 +724,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "driver-identification"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-023",
@@ -664,13 +752,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "licence-validity-renewal"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-024",
@@ -688,13 +780,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "licence-validity-renewal"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-025",
@@ -712,13 +808,17 @@
       "correctAnswers": [
         1
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "driver-identification"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-026",
@@ -736,13 +836,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "bus-lanes-and-pickups"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-027",
@@ -760,13 +864,17 @@
       "correctAnswers": [
         0
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "application-process"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-028",
@@ -784,13 +892,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "compliance-and-authorities"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-029",
@@ -808,13 +920,17 @@
       "correctAnswers": [
         3
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "licence-validity-renewal"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     },
     {
       "id": "DRIVER-030",
@@ -832,13 +948,17 @@
       "correctAnswers": [
         2
       ],
-      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
-      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
-      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
         "penalties-and-offences"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     }
   ]
 }

@@ -8,11 +8,11 @@
     {
       "id": "fare-basics",
       "title": "Fare Basics",
-      "intro": "Start with the core ideas: when a fare begins, what the passenger can expect, and how a fare should be handled clearly.",
-      "memoryTrick": "Before fare detail, remember the three Cs: confirm, charge correctly, communicate.",
+      "intro": "Start with the core ideas: fare receipt, basic charges, and passenger expectations.",
+      "memoryTrick": "Receipt and basic fare questions are about clarity and honesty.",
       "commonMistakes": [
-        "Mixing general fare duties with extra-charge rules",
-        "Forgetting receipt and passenger communication basics"
+        "Mixing receipt duties with extra-charge rules",
+        "Assuming tips or change can be kept automatically"
       ],
       "tags": [
         "fare-basics",
@@ -22,26 +22,25 @@
     {
       "id": "standard-premium-special-rates",
       "title": "Standard, Premium and Special Rates",
-      "intro": "Learn how rate types differ so you can recognise the correct charging context quickly.",
-      "memoryTrick": "Standard is the baseline, premium is time-sensitive, special is event or rule-specific.",
+      "intro": "Learn when standard, premium and special rates apply.",
+      "memoryTrick": "Standard is normal weekday daytime. Premium is nights/Sundays. Special is Christmas/New Year and special periods.",
       "commonMistakes": [
-        "Treating premium and special rates as the same thing",
-        "Missing the condition that triggers a rate"
+        "Confusing premium with special premium",
+        "Forgetting the time/day clue"
       ],
       "tags": [
-        "standard-rate",
-        "premium-rate",
-        "special-rate"
+        "rates",
+        "tariffs"
       ]
     },
     {
       "id": "tariff-a-tariff-b",
       "title": "Tariff A and Tariff B",
-      "intro": "Focus on the difference between Tariff A and Tariff B and when each one applies.",
-      "memoryTrick": "A comes first; B begins after the Tariff A threshold.",
+      "intro": "Learn where Tariff A ends and Tariff B begins.",
+      "memoryTrick": "A comes first. B begins after the threshold.",
       "commonMistakes": [
-        "Choosing the tariff from habit instead of the question facts",
-        "Ignoring time, date, or rate clues"
+        "Mixing Tariff A amount with distance/time threshold",
+        "Using old fare values"
       ],
       "tags": [
         "tariff-a",
@@ -51,40 +50,41 @@
     {
       "id": "time-vs-distance-charging",
       "title": "Time vs Distance Charging",
-      "intro": "Understand when the fare is affected by time, distance, traffic, or waiting.",
-      "memoryTrick": "Fast means distance; slow traffic means time.",
+      "intro": "Understand when a fare is charged by journey time instead of distance.",
+      "memoryTrick": "Slow traffic means time. Below 21.2 km/h means time charging.",
       "commonMistakes": [
-        "Assuming only distance changes the fare",
-        "Missing slow-speed wording"
+        "Assuming moving always means metres",
+        "Forgetting the 21.2 km/h changeover speed"
       ],
       "tags": [
         "time",
         "distance",
-        "waiting"
+        "speed"
       ]
     },
     {
       "id": "extra-charges",
       "title": "Extra Charges",
-      "intro": "Practise recognising valid extra charges and spotting charges that should not be added.",
-      "memoryTrick": "Extras need a rule. If no rule supports it, do not add it.",
+      "intro": "Know valid extra charges: booking, tolls, children/passengers, soiling and what cannot be charged.",
+      "memoryTrick": "Extras need a rule. Luggage is not an extra.",
       "commonMistakes": [
-        "Adding extras because a trip feels inconvenient",
-        "Confusing luggage, passenger, booking, toll, or soiling charges"
+        "Charging for luggage",
+        "Forgetting tolls must be included on receipt"
       ],
       "tags": [
-        "extras",
-        "charges"
+        "extra-charges",
+        "tolls",
+        "booking"
       ]
     },
     {
       "id": "taximeter-rules",
       "title": "Taximeter Rules",
-      "intro": "Review how the taximeter should be used, displayed, and relied on during a journey.",
-      "memoryTrick": "Meter visible, meter correct, meter used.",
+      "intro": "Learn taximeter start, visibility, calibration and fitting rules.",
+      "memoryTrick": "Meter must be visible, fitted, calibrated and used correctly.",
       "commonMistakes": [
-        "Starting the meter at the wrong moment",
-        "Forgetting calibration or visibility rules"
+        "Starting meter too early",
+        "Confusing calibration with general vehicle safety"
       ],
       "tags": [
         "taximeter",
@@ -94,40 +94,38 @@
     {
       "id": "fixed-payment-offences",
       "title": "Fixed Payment Offences",
-      "intro": "Learn the offence patterns that lead to fixed payment notices.",
-      "memoryTrick": "Penalty questions usually turn on one key action: fail, refuse, display, operate, or comply.",
+      "intro": "Practise penalty amount questions.",
+      "memoryTrick": "Read the offence wording carefully before choosing the amount.",
       "commonMistakes": [
-        "Mixing up €80, €150 and €250 offences",
-        "Reading offence questions as general customer-service questions"
+        "Mixing €80, €150 and €250 offences",
+        "Guessing instead of using exact offence wording"
       ],
       "tags": [
         "offences",
-        "fixed-payment"
+        "penalties"
       ]
     },
     {
       "id": "customer-service-driver-rights",
       "title": "Customer Service and Driver Rights",
-      "intro": "Balance passenger service expectations with the rights and responsibilities of a professional driver.",
-      "memoryTrick": "Be fair, be clear, be professional.",
+      "intro": "Passenger communication, routes, refusal rights and professional behaviour.",
+      "memoryTrick": "Professional, clear, safe.",
       "commonMistakes": [
-        "Assuming drivers must accept every situation",
-        "Forgetting passenger-facing duties such as receipts"
+        "Chasing passengers",
+        "Not explaining route/toll choices"
       ],
       "tags": [
         "customer-service",
-        "driver-rights",
-        "receipts"
+        "driver-rights"
       ]
     },
     {
       "id": "final-mixed-fares-test",
       "title": "Final Mixed Fares Test",
-      "intro": "Take every Fares question together to check whether you can handle mixed wording without lesson hints.",
-      "memoryTrick": "Read facts first, identify topic second, choose rule last.",
+      "intro": "All 44 Fares questions mixed together.",
+      "memoryTrick": "Read facts first, topic second, answer last.",
       "commonMistakes": [
-        "Answering by lesson title instead of question facts",
-        "Rushing rate, tariff, and extra-charge questions"
+        "Answering from memory without reading the wording"
       ],
       "tags": [
         "mixed-test"
@@ -139,27 +137,1275 @@
     {
       "id": "FARES-001",
       "module": "fares",
-      "lessonId": "customer-service-driver-rights",
+      "lessonId": "standard-premium-special-rates",
       "questionNumber": 1,
-      "questionText": "When should a taxi driver be prepared to provide a receipt?",
+      "questionText": "The charge per kilometre on Tariff B Premium Rate of the National Maximum Taxi Fare is:",
       "type": "single",
       "options": [
-        "When the passenger requests one",
-        "Only for airport journeys",
-        "Only when paid by card",
-        "Only for journeys over 20 euro"
+        "€1.45",
+        "€1.75",
+        "€1.90",
+        "€2.20"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "fares",
+        "premium-rate",
+        "tariff-b"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-002",
+      "module": "fares",
+      "lessonId": "fare-basics",
+      "questionNumber": 2,
+      "questionText": "How much VAT does a customer pay on a fare?",
+      "type": "single",
+      "options": [
+        "0%",
+        "12.50%",
+        "20%",
+        "5%"
       ],
       "correctAnswers": [
         0
       ],
-      "explanation": "A professional SPSV service should support receipts when requested by the passenger.",
-      "memoryTip": "Receipt questions usually turn on the passenger request.",
-      "commonMistake": "Do not limit receipt duties to a payment method, journey type, or fare amount unless the original question says so.",
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
       "tags": [
-        "receipts",
+        "fares",
+        "vat"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-003",
+      "module": "fares",
+      "lessonId": "taximeter-rules",
+      "questionNumber": 3,
+      "questionText": "If a fare is pre-booked, when are you allowed turn on the meter?",
+      "type": "single",
+      "options": [
+        "The meter can start at the agreed time of the pre-book",
+        "When the customer gets in the car",
+        "When you arrive at the pick-up address",
+        "You don't need to turn on the meter because it is a pre-book"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "taximeter",
+        "pre-booking"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-004",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 4,
+      "questionText": "What is the approved fee that can be charged for payment by credit/debit card?",
+      "type": "single",
+      "options": [
+        "10%",
+        "2.50%",
+        "5.00%",
+        "No charge can be applied"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "card-payment",
+        "extra-charges"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-005",
+      "module": "fares",
+      "lessonId": "tariff-a-tariff-b",
+      "questionNumber": 5,
+      "questionText": "What does the initial charge cover on a taxi fare?",
+      "type": "single",
+      "options": [
+        "Up to 0.1 km or 90 seconds",
+        "Up to 0.3 km or 30 seconds",
+        "Up to 0.5 km or 85 seconds",
+        "Up to 1 km or 60 seconds"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "initial-charge",
+        "tariffs"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-006",
+      "module": "fares",
+      "lessonId": "customer-service-driver-rights",
+      "questionNumber": 6,
+      "questionText": "What are the benefits of pre-booking a hackney in advance?",
+      "type": "single",
+      "options": [
+        "There is no benefit to pre-booking a taxi in advance",
+        "You can agree the fare but not the route",
+        "You can agree the route and the fare in advance",
+        "You can agree the route but not the fare"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "hackney",
+        "pre-booking"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-007",
+      "module": "fares",
+      "lessonId": "customer-service-driver-rights",
+      "questionNumber": 7,
+      "questionText": "If a customer runs away at the end of a journey what should you do?",
+      "type": "single",
+      "options": [
+        "Chase after them",
+        "Do not chase them",
+        "Threaten them"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "safety",
         "customer-service"
       ],
-      "source": "FREE_NOW"
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-008",
+      "module": "fares",
+      "lessonId": "time-vs-distance-charging",
+      "questionNumber": 8,
+      "questionText": "When travelling at 15 km/h is the fare calculated in metres or time?",
+      "type": "single",
+      "options": [
+        "Metres",
+        "Time"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "time",
+        "distance",
+        "speed"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-009",
+      "module": "fares",
+      "lessonId": "standard-premium-special-rates",
+      "questionNumber": 9,
+      "questionText": "What is the initial starting tariff on Christmas Eve before 20:00 if Christmas Eve is a Wednesday?",
+      "type": "single",
+      "options": [
+        "€5.40 + €1.81 per km thereafter",
+        "€4.80 + €1.45 per km thereafter",
+        "€4.40 + €1.32 per km thereafter",
+        "€4.20 + €1.80 per km thereafter"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "standard-rate",
+        "christmas-eve"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-010",
+      "module": "fares",
+      "lessonId": "fixed-payment-offences",
+      "questionNumber": 10,
+      "questionText": "Fixed Payment Offence \"Failure to comply with the requirements in relation to the calibration of taximeters\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€250",
+        "€40",
+        "€60",
+        "€80"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "offences",
+        "taximeter"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-011",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 11,
+      "questionText": "What is a driver NOT allowed charge additional for?",
+      "type": "single",
+      "options": [
+        "Booking fee",
+        "Destruction charge",
+        "Luggage",
+        "Soiling charge"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "extra-charges",
+        "luggage"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-012",
+      "module": "fares",
+      "lessonId": "taximeter-rules",
+      "questionNumber": 12,
+      "questionText": "When can a driver start the meter when parked at a rank?",
+      "type": "single",
+      "options": [
+        "When the driver has agreed to take the passenger",
+        "When the driver is told where the fare is going",
+        "When the passenger fastens their seatbelt",
+        "When the passenger flags down the taxi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "taximeter",
+        "rank"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-013",
+      "module": "fares",
+      "lessonId": "fixed-payment-offences",
+      "questionNumber": 13,
+      "questionText": "Fixed Payment Offence \"Failure to operate taximeter while taxi is on hire\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€120",
+        "€40",
+        "€150",
+        "€80"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "offences",
+        "taximeter"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-014",
+      "module": "fares",
+      "lessonId": "taximeter-rules",
+      "questionNumber": 14,
+      "questionText": "Is it possible to move a meter from one vehicle to another?",
+      "type": "single",
+      "options": [
+        "No, a meter can never be moved",
+        "Yes, a meter can be moved as long as you inform the NTA (National Transport Authority)",
+        "Yes, as long as it's moved in a safe manner",
+        "Yes, but the meter must be recalibrated and refitted"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "taximeter",
+        "calibration"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-015",
+      "module": "fares",
+      "lessonId": "standard-premium-special-rates",
+      "questionNumber": 15,
+      "questionText": "The charge per kilometre on Tariff B Special Rate of the National Maximum Taxi Fare is:",
+      "type": "single",
+      "options": [
+        "€1.35",
+        "€1.57",
+        "€1.95",
+        "€2.20"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "special-rate",
+        "tariff-b"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-016",
+      "module": "fares",
+      "lessonId": "standard-premium-special-rates",
+      "questionNumber": 16,
+      "questionText": "The charge per kilometre on Tariff A Premium Rate of the National Maximum Taxi Fare is:",
+      "type": "single",
+      "options": [
+        "€1.35",
+        "€1.81",
+        "€1.57",
+        "€1.75"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "premium-rate",
+        "tariff-a"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-017",
+      "module": "fares",
+      "lessonId": "time-vs-distance-charging",
+      "questionNumber": 17,
+      "questionText": "It is after 8pm on a busy Saturday night and you are travelling 14.5 km/h, how much do you charge after the initial charge?",
+      "type": "single",
+      "options": [
+        "€0.40 per minute",
+        "€0.53 per minute",
+        "€0.64 per minute",
+        "€0.60 per minute"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "time",
+        "premium-rate"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-018",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 18,
+      "questionText": "What is the additional charge for 2 or 3 children under 12 years of age?",
+      "type": "single",
+      "options": [
+        "No additional charge",
+        "€1",
+        "€2",
+        "€3"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "children",
+        "extra-charges"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-019",
+      "module": "fares",
+      "lessonId": "standard-premium-special-rates",
+      "questionNumber": 19,
+      "questionText": "What is the tariff on Christmas Eve after 8pm?",
+      "type": "single",
+      "options": [
+        "€4.20 + €1.65 per km thereafter",
+        "€4.20 + €1.30 per km thereafter",
+        "€4.80 + €1.71 per km thereafter",
+        "€5.40 + €2.20 per km thereafter"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "special-rate",
+        "christmas-eve"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-020",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 20,
+      "questionText": "Can you apply toll charges to a fare?",
+      "type": "single",
+      "options": [
+        "NO",
+        "YES"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tolls",
+        "extra-charges"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-021",
+      "module": "fares",
+      "lessonId": "fare-basics",
+      "questionNumber": 21,
+      "questionText": "If a fare comes to €19.80 at the end of the journey and the customer gives you €20, what should you do?",
+      "type": "single",
+      "options": [
+        "Ask if the customer wants the change",
+        "Give back 20c and say thank you",
+        "Keep the change",
+        "Say thank you and drive off"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "change",
+        "customer-service"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-022",
+      "module": "fares",
+      "lessonId": "time-vs-distance-charging",
+      "questionNumber": 22,
+      "questionText": "Below what speed is a fare calculated by journey time?",
+      "type": "single",
+      "options": [
+        "14.5 km/h",
+        "15 km/h",
+        "21.2 km/h",
+        "24.5 km/h"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "speed",
+        "time"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-023",
+      "module": "fares",
+      "lessonId": "tariff-a-tariff-b",
+      "questionNumber": 23,
+      "questionText": "Tariff A runs for how many kilometres/minutes?",
+      "type": "single",
+      "options": [
+        "14 km or 52 minutes",
+        "14.5 km or 44 minutes",
+        "14.5 km or 42 minutes",
+        "15 km or up to 52 minutes"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tariff-a",
+        "threshold"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-024",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 24,
+      "questionText": "Where are details regarding extra charges displayed in a SPSV vehicle?",
+      "type": "single",
+      "options": [
+        "Dashboard ID",
+        "In-vehicle Information Card",
+        "On the back of the driver's headrest",
+        "They are not displayed"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "extra-charges",
+        "ivIC"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-025",
+      "module": "fares",
+      "lessonId": "taximeter-rules",
+      "questionNumber": 25,
+      "questionText": "If the fare is travelling over 30 km, with permission from the passenger the driver can do what with his roof sign for more efficient fuel consumption?",
+      "type": "single",
+      "options": [
+        "Position the roof sign lengthways",
+        "Put it in the boot",
+        "Put it in the passenger seat",
+        "You must never alter the roof sign"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "roof-sign",
+        "driver-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-026",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 26,
+      "questionText": "Do toll charges need to be included on a receipt?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tolls",
+        "receipt"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-027",
+      "module": "fares",
+      "lessonId": "time-vs-distance-charging",
+      "questionNumber": 27,
+      "questionText": "What is the charge per minute of the Special Premium Rate after the initial charge?",
+      "type": "single",
+      "options": [
+        "€1.50",
+        "€0.50",
+        "€0.95",
+        "€0.78"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "special-rate",
+        "time"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-028",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 28,
+      "questionText": "What is the additional charge for 2 children, 9 and 10 years old?",
+      "type": "single",
+      "options": [
+        "No additional charge",
+        "€1",
+        "€2",
+        "€3"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "children",
+        "extra-charges"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-029",
+      "module": "fares",
+      "lessonId": "standard-premium-special-rates",
+      "questionNumber": 29,
+      "questionText": "What is the starting tariff on Christmas Eve before 18:00 if Christmas Day is a Monday?",
+      "type": "single",
+      "options": [
+        "€4.20 + €1.45 per km thereafter",
+        "€4.20 + €1.75 per km thereafter",
+        "€5.40 + €1.81 per km thereafter",
+        "€5.40 + €2.20 per km thereafter"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "premium-rate",
+        "christmas-eve"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-030",
+      "module": "fares",
+      "lessonId": "fixed-payment-offences",
+      "questionNumber": 30,
+      "questionText": "Fixed Payment Offence \"Standing at appointed stand while the vehicle is not available for hire\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€250",
+        "€40",
+        "€60",
+        "€80"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "offences",
+        "rank"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-031",
+      "module": "fares",
+      "lessonId": "fare-basics",
+      "questionNumber": 31,
+      "questionText": "What needs to be included on a taxi receipt?",
+      "type": "single",
+      "options": [
+        "All are correct",
+        "Date",
+        "Taxi licence number",
+        "Vehicle Registration"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "receipt",
+        "fare-basics"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-032",
+      "module": "fares",
+      "lessonId": "taximeter-rules",
+      "questionNumber": 32,
+      "questionText": "Where is the meter most visible?",
+      "type": "single",
+      "options": [
+        "Centre column above the dashboard",
+        "In the glovebox",
+        "Passenger footwell",
+        "Underneath the passenger seat"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "taximeter",
+        "visibility"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-033",
+      "module": "fares",
+      "lessonId": "customer-service-driver-rights",
+      "questionNumber": 33,
+      "questionText": "What should you do if there is a toll charge on the route the passenger has chosen?",
+      "type": "single",
+      "options": [
+        "Charge the passenger more than the toll value",
+        "Continue on the selected route but don't charge for the tolls",
+        "Don't tell the passenger there is a toll charge",
+        "You should advise passengers of the alternative routes available, and the likely costs and journey times associated with each"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tolls",
+        "route",
+        "customer-service"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-034",
+      "module": "fares",
+      "lessonId": "standard-premium-special-rates",
+      "questionNumber": 34,
+      "questionText": "What is the national maximum fare?",
+      "type": "single",
+      "options": [
+        "Special Premium Rate of €4.20 + €1.45 per km thereafter",
+        "Special Premium Rate of €4.80 + €1.75 per km thereafter",
+        "Special Premium Rate of €5.40 + €2.20 per km thereafter",
+        "Special Premium Rate of €4.20 + €1.90 per km thereafter"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "national-maximum-fare",
+        "special-rate"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-035",
+      "module": "fares",
+      "lessonId": "time-vs-distance-charging",
+      "questionNumber": 35,
+      "questionText": "It is 08:30 am on Monday morning and you are travelling at 15 km/h, how much do you charge after the initial charge?",
+      "type": "single",
+      "options": [
+        "€0.51 per minute",
+        "€0.53 per minute",
+        "€0.64 per minute",
+        "€0.47 per minute"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "standard-rate",
+        "time"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-036",
+      "module": "fares",
+      "lessonId": "fixed-payment-offences",
+      "questionNumber": 36,
+      "questionText": "The Fixed Payment Offence \"Failure to display tamper-proof disc\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€250",
+        "€40",
+        "€60",
+        "€150"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "offences",
+        "tamper-proof-disc"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-037",
+      "module": "fares",
+      "lessonId": "tariff-a-tariff-b",
+      "questionNumber": 37,
+      "questionText": "Tariff A on the standard rate is up to what amount?",
+      "type": "single",
+      "options": [
+        "€20.40",
+        "€23.60",
+        "€25.40",
+        "€29.60"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tariff-a",
+        "standard-rate"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-038",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 38,
+      "questionText": "If a customer has pre-booked a taxi to the airport what are they expected to do?",
+      "type": "single",
+      "options": [
+        "Pay the fare and booking fee",
+        "Pay the fare but not the booking fee",
+        "Query the fare and the booking fee",
+        "Query the fare but not the booking fee"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "booking-fee",
+        "airport"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-039",
+      "module": "fares",
+      "lessonId": "tariff-a-tariff-b",
+      "questionNumber": 39,
+      "questionText": "Tariff A on the premium rate is up to what amount?",
+      "type": "single",
+      "options": [
+        "€31.80",
+        "€24.50",
+        "€27.40",
+        "€29.60"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tariff-a",
+        "premium-rate"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-040",
+      "module": "fares",
+      "lessonId": "fixed-payment-offences",
+      "questionNumber": 40,
+      "questionText": "Fixed Payment Offence \"Refusal to carry assistance dog or guide dog in a small public service vehicle\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€60",
+        "€250",
+        "€150",
+        "€80"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "offences",
+        "assistance-dog"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-041",
+      "module": "fares",
+      "lessonId": "customer-service-driver-rights",
+      "questionNumber": 41,
+      "questionText": "You have the right to refuse to undertake journeys if:",
+      "type": "single",
+      "options": [
+        "Less than 10 km",
+        "More than 20 km",
+        "More than 25 km",
+        "More than 30 km"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "driver-rights",
+        "journey-refusal"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-042",
+      "module": "fares",
+      "lessonId": "extra-charges",
+      "questionNumber": 42,
+      "questionText": "Which of the following booking methods would incur a booking fee?",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "Email or Text",
+        "Phone or App",
+        "Visiting a dispatch operator's office"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "booking-fee",
+        "extra-charges"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-043",
+      "module": "fares",
+      "lessonId": "customer-service-driver-rights",
+      "questionNumber": 43,
+      "questionText": "What SPSV drivers are able to agree the fare in advance of the journey? (select two answers)",
+      "type": "multiple",
+      "options": [
+        "Limousines",
+        "Local area hackney",
+        "Taxi",
+        "Wheelchair Accessible Vehicles"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "fare-agreement",
+        "vehicle-types"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
+    },
+    {
+      "id": "FARES-044",
+      "module": "fares",
+      "lessonId": "tariff-a-tariff-b",
+      "questionNumber": 44,
+      "questionText": "Tariff B begins after what distance/time?",
+      "type": "single",
+      "options": [
+        "After 14 km or after 41 minutes",
+        "After 14.5 km or after 41 minutes",
+        "After 15.5 km or 52 minutes",
+        "After 15 km or after 43 minutes (42 min 25 sec)"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "Recorded from the verified FREE_NOW question bank. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key words first, then match them to the rule.",
+      "commonMistake": "Do not infer a different answer during data entry. Use the verified FREE_NOW answer key.",
+      "tags": [
+        "tariff-b",
+        "threshold"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-05"
     }
   ]
 }

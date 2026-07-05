@@ -16,9 +16,26 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
   const [activeLessonId, setActiveLessonId] = useState("all");
   const [query, setQuery] = useState("");
 
-  const stats = getQuestionStats();
+  const globalStats = getQuestionStats();
   const allQuestions = getAllQuestions();
   const activeModule = questionBankModules.find((module) => module.id === activeModuleId);
+
+  const stats =
+    activeModuleId === "all" || !activeModule
+      ? globalStats
+      : {
+          totalQuestions: activeModule.questions.length,
+          totalModules: 1,
+          byModule: [
+            {
+              id: activeModule.id,
+              title: activeModule.eyebrow.replace(" module", ""),
+              count: activeModule.questions.length,
+              target: activeModule.targetQuestionCount,
+              lessons: activeModule.lessons.filter((lesson) => !lesson.isFinalTest).length
+            }
+          ]
+        };
 
   const lessons = activeModule?.lessons.filter((lesson) => !lesson.isFinalTest) ?? [];
 

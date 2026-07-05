@@ -10,8 +10,8 @@ const links = [
   ["Dublin", "/dublin-area"],
   ["Admin", "/admin"],
   ["Question Bank", "/question-bank"],
-  ["Fares", "/question-bank/fares"],
-  ["Driver Licensing", "/question-bank/driver-licensing"],
+  ["Fares", "/practice/fares"],
+  ["Driver Licensing", "/practice/driver-licensing"],
 ];
 
 export function TopNav() {

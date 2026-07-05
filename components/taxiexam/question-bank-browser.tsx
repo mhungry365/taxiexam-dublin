@@ -2,10 +2,10 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { BookOpenCheck, Search, Tag, Layers3 } from "lucide-react";
+import { BookOpenCheck, Search, Tag, Layers3, PlayCircle } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
-import { answerLetters, getAllQuestions, getQuestionStats, questionBankModules } from "@/lib/question-bank";
+import { getAllQuestions, getQuestionStats, questionBankModules } from "@/lib/question-bank";
 
 type Props = {
   initialModuleId?: string;
@@ -18,7 +18,7 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
 
   const globalStats = getQuestionStats();
   const allQuestions = getAllQuestions();
-  const activeModule = questionBankModules.find((module) => module.id === activeModuleId);
+  const activeModule = questionBankModules.find((moduleItem) => moduleItem.id === activeModuleId);
 
   const stats =
     activeModuleId === "all" || !activeModule
@@ -45,6 +45,7 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
       const lessonMatch = activeLessonId === "all" || question.lessonId === activeLessonId;
       const text = `${question.id} ${question.questionText} ${question.options.join(" ")} ${question.tags.join(" ")}`.toLowerCase();
       const searchMatch = !query.trim() || text.includes(query.trim().toLowerCase());
+
       return moduleMatch && lessonMatch && searchMatch;
     });
   }, [activeModuleId, activeLessonId, allQuestions, query]);
@@ -61,10 +62,11 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
           <div className="flex items-center gap-3">
             <BookOpenCheck className="text-teal" />
             <div>
-              <p className="text-sm font-bold text-muted-foreground">Master question bank</p>
+              <p className="text-sm font-bold text-muted-foreground">Question database</p>
               <p className="text-3xl font-black text-navy">{stats.totalQuestions} questions</p>
             </div>
           </div>
+
           <div className="mt-4 grid grid-cols-2 gap-3 text-sm">
             <div className="rounded-lg bg-muted p-3">
               <p className="font-black text-navy">{stats.totalModules}</p>
@@ -77,6 +79,24 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
               <p className="text-muted-foreground">lessons</p>
             </div>
           </div>
+
+          {activeModule ? (
+            <Link
+              href={`/practice/${activeModule.id}`}
+              className="mt-4 flex items-center justify-center gap-2 rounded-lg bg-teal px-4 py-3 text-sm font-black text-white"
+            >
+              <PlayCircle className="size-4" />
+              Start practice
+            </Link>
+          ) : (
+            <Link
+              href="/practice"
+              className="mt-4 flex items-center justify-center gap-2 rounded-lg bg-teal px-4 py-3 text-sm font-black text-white"
+            >
+              <PlayCircle className="size-4" />
+              Choose practice category
+            </Link>
+          )}
         </Card>
 
         <Card className="p-5">
@@ -90,29 +110,22 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
               )}
             >
               <p className="font-black text-navy">All categories</p>
-              <p className="text-sm text-muted-foreground">{stats.totalQuestions} questions</p>
+              <p className="text-sm text-muted-foreground">{globalStats.totalQuestions} questions</p>
             </button>
 
-            {stats.byModule.map((module) => (
+            {globalStats.byModule.map((moduleItem) => (
               <button
-                key={module.id}
-                onClick={() => selectModule(module.id)}
+                key={moduleItem.id}
+                onClick={() => selectModule(moduleItem.id)}
                 className={cn(
                   "rounded-lg border bg-white p-4 text-left hover:border-teal",
-                  activeModuleId === module.id && "border-teal bg-teal/5"
+                  activeModuleId === moduleItem.id && "border-teal bg-teal/5"
                 )}
               >
-                <div className="flex items-start justify-between gap-3">
-                  <div>
-                    <p className="font-black text-navy">{module.title}</p>
-                    <p className="text-sm text-muted-foreground">
-                      {module.count}/{module.target} questions · {module.lessons} lessons
-                    </p>
-                  </div>
-                  <Link href={`/question-bank/${module.id}`} className="text-xs font-black text-teal">
-                    Open
-                  </Link>
-                </div>
+                <p className="font-black text-navy">{moduleItem.title}</p>
+                <p className="text-sm text-muted-foreground">
+                  {moduleItem.count}/{moduleItem.target} questions · {moduleItem.lessons} lessons
+                </p>
               </button>
             ))}
           </div>
@@ -131,8 +144,10 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
               >
                 All lessons
               </button>
+
               {lessons.map((lesson) => {
                 const count = activeModule.questions.filter((question) => question.lessonId === lesson.id).length;
+
                 return (
                   <button
                     key={lesson.id}
@@ -159,10 +174,11 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
             <div>
               <p className="font-black text-navy">Search questions</p>
               <p className="text-sm text-muted-foreground">
-                Showing {filteredQuestions.length} of {allQuestions.length}
+                Showing {filteredQuestions.length} of {activeModule ? activeModule.questions.length : allQuestions.length}
               </p>
             </div>
           </div>
+
           <input
             value={query}
             onChange={(event) => setQuery(event.target.value)}
@@ -174,34 +190,22 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
         <div className="grid gap-4">
           {filteredQuestions.map((question) => (
             <Card key={question.id} className="p-5">
-              <div className="flex flex-col justify-between gap-3 md:flex-row md:items-start">
-                <div>
-                  <p className="text-xs font-black uppercase tracking-wide text-teal">
-                    {question.id} · {question.moduleTitle} · {question.lessonTitle}
-                  </p>
-                  <h3 className="mt-2 text-xl font-black leading-7 text-navy">{question.questionText}</h3>
-                </div>
-                <div className="rounded-lg bg-cream px-3 py-2 text-sm font-black text-navy">
-                  Answer {answerLetters(question).join(", ")}
-                </div>
-              </div>
+              <p className="text-xs font-black uppercase tracking-wide text-teal">
+                {question.id} · {question.moduleTitle} · {question.lessonTitle}
+              </p>
+
+              <h3 className="mt-2 text-xl font-black leading-7 text-navy">{question.questionText}</h3>
 
               <div className="mt-4 grid gap-2">
-                {question.options.map((option, index) => {
-                  const isCorrect = question.correctAnswers.includes(index);
-                  return (
-                    <div
-                      key={`${question.id}-${index}`}
-                      className={cn(
-                        "rounded-lg border p-3 text-sm font-semibold",
-                        isCorrect ? "border-teal bg-teal/5" : "bg-white"
-                      )}
-                    >
-                      <span className="mr-2 font-black">{String.fromCharCode(65 + index)}.</span>
-                      {option}
-                    </div>
-                  );
-                })}
+                {question.options.map((option, index) => (
+                  <div
+                    key={`${question.id}-${index}`}
+                    className="rounded-lg border bg-white p-3 text-sm font-semibold"
+                  >
+                    <span className="mr-2 font-black">{String.fromCharCode(65 + index)}.</span>
+                    {option}
+                  </div>
+                ))}
               </div>
 
               <div className="mt-4 flex flex-wrap gap-2">
@@ -212,6 +216,10 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
                   </span>
                 ))}
               </div>
+
+              <p className="mt-4 rounded-lg bg-cream p-3 text-sm font-semibold text-muted-foreground">
+                Answers are hidden here. Use Practice Mode to answer first and reveal feedback after submitting.
+              </p>
             </Card>
           ))}
 

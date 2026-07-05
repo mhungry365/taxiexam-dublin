@@ -1,0 +1,844 @@
+{
+  "id": "driver-licensing",
+  "title": "Learn Driver Licensing lesson by lesson.",
+  "eyebrow": "Driver Licensing module",
+  "description": "Study SPSV driver licensing in focused lessons, practise original FREE_NOW questions, review mistakes, and finish with a mixed 30-question test.",
+  "targetQuestionCount": 30,
+  "lessons": [
+    {
+      "id": "compliance-and-authorities",
+      "title": "Authorities and Compliance",
+      "intro": "Learn who controls, checks, and issues SPSV-related permissions.",
+      "memoryTrick": "Garda for driver licence, NTA for vehicle/industry framework, ComReg for radio.",
+      "commonMistakes": [
+        "Mixing NTA, Garda, RSA and NDLS roles",
+        "Assuming every transport matter goes to the RSA"
+      ],
+      "tags": [
+        "authorities",
+        "compliance"
+      ]
+    },
+    {
+      "id": "application-process",
+      "title": "Application Process",
+      "intro": "Understand where applications go, what forms are needed, and what happens after passing the test.",
+      "memoryTrick": "Test first, Garda process next, card/licence after approval.",
+      "commonMistakes": [
+        "Thinking a conditional offer is a licence",
+        "Sending PSV forms to the wrong body"
+      ],
+      "tags": [
+        "application",
+        "forms"
+      ]
+    },
+    {
+      "id": "vehicle-and-licence-types",
+      "title": "Vehicle and Licence Types",
+      "intro": "Learn what different SPSV types can do and when fares may be agreed in advance.",
+      "memoryTrick": "Taxi can ply; hackney is booked; limousine is special/private.",
+      "commonMistakes": [
+        "Confusing taxi with hackney rights",
+        "Assuming wheelchair accessible means a different driver licence rule"
+      ],
+      "tags": [
+        "vehicle-types",
+        "licence-types"
+      ]
+    },
+    {
+      "id": "driver-identification",
+      "title": "Driver Identification",
+      "intro": "Learn what the driver cards, colours, stickers and displayed information mean.",
+      "memoryTrick": "Cards and stickers tell passengers what licence and area the driver has.",
+      "commonMistakes": [
+        "Mixing card colours",
+        "Confusing vehicle discs with driver ID"
+      ],
+      "tags": [
+        "driver-id",
+        "cards"
+      ]
+    },
+    {
+      "id": "bus-lanes-and-pickups",
+      "title": "Bus Lanes and Pickups",
+      "intro": "Know which SPSVs can use bus lanes and where different vehicles may pick up.",
+      "memoryTrick": "Taxis have public hire privileges; hackneys are booking-based.",
+      "commonMistakes": [
+        "Assuming every SPSV can use every bus lane",
+        "Confusing normal bus lanes with contra-flow bus lanes"
+      ],
+      "tags": [
+        "bus-lanes",
+        "pickup"
+      ]
+    },
+    {
+      "id": "licence-validity-renewal",
+      "title": "Licence Validity and Renewal",
+      "intro": "Learn expiry, renewal timing, lost cards, expired licences and transfer rules.",
+      "memoryTrick": "Licence problems must be reported or renewed early; do not ignore cards or expiry dates.",
+      "commonMistakes": [
+        "Waiting too close to expiry",
+        "Reporting smart-card issues to the wrong place"
+      ],
+      "tags": [
+        "renewal",
+        "validity"
+      ]
+    },
+    {
+      "id": "penalties-and-offences",
+      "title": "Penalties and Offences",
+      "intro": "Practise the penalty questions connected to operating or displaying identification incorrectly.",
+      "memoryTrick": "No valid licence or forged display equals a serious penalty question.",
+      "commonMistakes": [
+        "Mixing maximum fines with fixed payment offences",
+        "Guessing by amount instead of offence wording"
+      ],
+      "tags": [
+        "penalties",
+        "offences"
+      ]
+    },
+    {
+      "id": "final-mixed-driver-licensing-test",
+      "title": "Final Mixed Driver Licensing Test",
+      "intro": "Take every Driver Licensing question together to practise without lesson hints.",
+      "memoryTrick": "Identify the body, licence type, or penalty before looking at the answers.",
+      "commonMistakes": [
+        "Rushing authority questions",
+        "Mixing driver licence and vehicle licence rules"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "DRIVER-001",
+      "module": "driver-licensing",
+      "lessonId": "compliance-and-authorities",
+      "questionNumber": 1,
+      "questionText": "When can compliance officers approach SPSV operators?",
+      "type": "single",
+      "options": [
+        "At any stage",
+        "Only at the end of a shift",
+        "Whenever they aren't working",
+        "While they are working"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "compliance-and-authorities"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-002",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 2,
+      "questionText": "Where do you submit your PSV 15 application form?",
+      "type": "single",
+      "options": [
+        "Post it to the NTA (National Transport Authority)",
+        "Submit into the Garda station nearest to your residence (if you live outside Dublin)/Submit it to the Carriage Office (If you live in Dublin)",
+        "Submit it to the Department of Transport",
+        "Submit to Service Operator"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-003",
+      "module": "driver-licensing",
+      "lessonId": "compliance-and-authorities",
+      "questionNumber": 3,
+      "questionText": "Who is responsible for issuing a Driver's SPSV licence?",
+      "type": "single",
+      "options": [
+        "NDLS",
+        "RSA",
+        "NTA",
+        "An Garda Síochána"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "compliance-and-authorities"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-004",
+      "module": "driver-licensing",
+      "lessonId": "driver-identification",
+      "questionNumber": 4,
+      "questionText": "What gives information on the taxi area that is serviced by you?",
+      "type": "single",
+      "options": [
+        "Driver's ID card",
+        "mytaxi referral card",
+        "Taxi plate",
+        "Tamper proof disc"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "driver-identification"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-005",
+      "module": "driver-licensing",
+      "lessonId": "vehicle-and-licence-types",
+      "questionNumber": 5,
+      "questionText": "If you want to pick up on the street, what licence must you apply for?",
+      "type": "single",
+      "options": [
+        "Chauffeur license",
+        "Hackney license",
+        "Taxi and Wheelchair Taxi license",
+        "Wheelchair Taxi license"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "vehicle-and-licence-types"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-006",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 6,
+      "questionText": "Where do you go when you pass your SPSV test?",
+      "type": "single",
+      "options": [
+        "Local Garda Station",
+        "mytaxi Office",
+        "The NTA",
+        "The NDLS"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-007",
+      "module": "driver-licensing",
+      "lessonId": "driver-identification",
+      "questionNumber": 7,
+      "questionText": "What does a purple identification card represent?",
+      "type": "single",
+      "options": [
+        "That the driver can ply for hire in more than one county",
+        "That the driver has a limousine vehicle licence",
+        "That the driver has passed the SPSV Driver Entry Test",
+        "That the driver is a local area hackney driver"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "driver-identification"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-008",
+      "module": "driver-licensing",
+      "lessonId": "compliance-and-authorities",
+      "questionNumber": 8,
+      "questionText": "What licensing body issues the licenses for two-way radios?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Commission for Communications Regulation (ComReg)",
+        "The Commission for Taxi Regulation",
+        "The NTA (National Transport Authority)"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "compliance-and-authorities"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-009",
+      "module": "driver-licensing",
+      "lessonId": "driver-identification",
+      "questionNumber": 9,
+      "questionText": "What does a green identification card represent?",
+      "type": "single",
+      "options": [
+        "That the driver can ply for hire in more than one county",
+        "That the driver has a limousine vehicle licence",
+        "That the driver is a wheelchair taxi driver",
+        "That the driver is licenced for a Local Area Hackney"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "driver-identification"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-010",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 10,
+      "questionText": "How long is a conditional licence valid for?",
+      "type": "single",
+      "options": [
+        "120 days",
+        "90 days",
+        "60 days",
+        "30 days"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-011",
+      "module": "driver-licensing",
+      "lessonId": "licence-validity-renewal",
+      "questionNumber": 11,
+      "questionText": "A local area hackney license is valid for how many years?",
+      "type": "single",
+      "options": [
+        "10 years",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "licence-validity-renewal"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-012",
+      "module": "driver-licensing",
+      "lessonId": "licence-validity-renewal",
+      "questionNumber": 12,
+      "questionText": "Can a SPSV licence be transferred to another person?",
+      "type": "single",
+      "options": [
+        "No a license can never be transferred",
+        "No, only after the death of the current owner",
+        "Yes, but only limo licenses",
+        "Yes, but only local area hackney licenses"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "licence-validity-renewal"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-013",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 13,
+      "questionText": "What document must you fill out and submit when applying for a brand new SPSV driver licence?",
+      "type": "single",
+      "options": [
+        "Basic Technical Assesor Report",
+        "P45 from your previous employer",
+        "PSV 15/18 Application Form",
+        "VL1"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-014",
+      "module": "driver-licensing",
+      "lessonId": "bus-lanes-and-pickups",
+      "questionNumber": 14,
+      "questionText": "What SPSV vehicle is permitted to use contra flow bus lanes?",
+      "type": "single",
+      "options": [
+        "Limos",
+        "None",
+        "Taxis",
+        "Wheelchair taxis"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "bus-lanes-and-pickups"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-015",
+      "module": "driver-licensing",
+      "lessonId": "bus-lanes-and-pickups",
+      "questionNumber": 15,
+      "questionText": "Where can a local area hackney pick up?",
+      "type": "single",
+      "options": [
+        "From a booking address",
+        "From a hotel",
+        "From a rank",
+        "From the road"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "bus-lanes-and-pickups"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-016",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 16,
+      "questionText": "Who do you apply to for your SPSV Driver License?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "Local authority",
+        "NTA",
+        "RSA"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-017",
+      "module": "driver-licensing",
+      "lessonId": "vehicle-and-licence-types",
+      "questionNumber": 17,
+      "questionText": "Which of the following SPSV operators would agree the fare with the passenger in advance? (select multiple answers)",
+      "type": "multiple",
+      "options": [
+        "Chauffeur",
+        "Local area hackney",
+        "Taxi",
+        "Wheelchair Accessible Vehicles"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "vehicle-and-licence-types"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-018",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 18,
+      "questionText": "May a driver operate on a conditional offer licence?",
+      "type": "single",
+      "options": [
+        "No.",
+        "Yes, during peak times.",
+        "Yes, during the hours of 8am and 10pm",
+        "Yes."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-019",
+      "module": "driver-licensing",
+      "lessonId": "vehicle-and-licence-types",
+      "questionNumber": 19,
+      "questionText": "What type of SPSV should be used for state events?",
+      "type": "single",
+      "options": [
+        "Limousine",
+        "Taxi",
+        "Wheelchair accessible hackney",
+        "Wheelchair accessible taxi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "vehicle-and-licence-types"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-020",
+      "module": "driver-licensing",
+      "lessonId": "penalties-and-offences",
+      "questionNumber": 20,
+      "questionText": "What is the maximum penalty for operating an SPSV without a valid SPSV driver's license?",
+      "type": "single",
+      "options": [
+        "€1,000",
+        "€10,000",
+        "€2,500",
+        "€5,000"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "penalties-and-offences"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-021",
+      "module": "driver-licensing",
+      "lessonId": "licence-validity-renewal",
+      "questionNumber": 21,
+      "questionText": "What should you do with an expired license?",
+      "type": "single",
+      "options": [
+        "Keep it safe",
+        "Return to NTA (National Transport Authority)",
+        "Return to the Gardai",
+        "Shred it"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "licence-validity-renewal"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-022",
+      "module": "driver-licensing",
+      "lessonId": "driver-identification",
+      "questionNumber": 22,
+      "questionText": "What does a yellow identification card represent?",
+      "type": "single",
+      "options": [
+        "That the driver can ply for hire in more than one county",
+        "That the driver has a limousine vehicle licence",
+        "That the driver has a valid SPSV licence but it was issued prior to the introduction of the Skills Development Programme",
+        "That the driver is a local area hackney driver"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "driver-identification"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-023",
+      "module": "driver-licensing",
+      "lessonId": "licence-validity-renewal",
+      "questionNumber": 23,
+      "questionText": "How many weeks prior to the expiry date are drivers advised to renew their SPSV driver licences?",
+      "type": "single",
+      "options": [
+        "10 weeks",
+        "6 weeks",
+        "8 weeks",
+        "12 weeks"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "licence-validity-renewal"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-024",
+      "module": "driver-licensing",
+      "lessonId": "licence-validity-renewal",
+      "questionNumber": 24,
+      "questionText": "If your SPSV driver licence is issued on May 21st 2018, when will it expire?",
+      "type": "single",
+      "options": [
+        "21st May 2019",
+        "21st May 2020",
+        "21st May 2021",
+        "21st May 2023"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "licence-validity-renewal"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-025",
+      "module": "driver-licensing",
+      "lessonId": "driver-identification",
+      "questionNumber": 25,
+      "questionText": "The Area Sticker showing the county that the driver is licensed to stand or ply for hire is displayed where?",
+      "type": "single",
+      "options": [
+        "Back Window",
+        "Front Window",
+        "Taxi Roof sign",
+        "Vehicle Side Door"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "driver-identification"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-026",
+      "module": "driver-licensing",
+      "lessonId": "bus-lanes-and-pickups",
+      "questionNumber": 26,
+      "questionText": "What SPSV vehicle is permitted to use bus lanes?",
+      "type": "single",
+      "options": [
+        "Hackneys",
+        "Limos",
+        "Taxis and wheelchair taxis",
+        "Wheelchair hackneys"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "bus-lanes-and-pickups"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-027",
+      "module": "driver-licensing",
+      "lessonId": "application-process",
+      "questionNumber": 27,
+      "questionText": "What size of photos and how many do you need for apply for SPSV driver licence?",
+      "type": "single",
+      "options": [
+        "W:7cm H:10cm - 3 photos",
+        "W:4cm H:6cm - 5 photos",
+        "W:8cm H:6cm - 2 photos",
+        "W:10cm H:8cm - 1 photo"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "application-process"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-028",
+      "module": "driver-licensing",
+      "lessonId": "compliance-and-authorities",
+      "questionNumber": 28,
+      "questionText": "Who is responsible for your SPSV license?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána and the RSA (Road Safety Authority)",
+        "The Local County Council and the RSA (Road Safety Authority)",
+        "The NTA (National Transport Authority) and An Garda Síochána",
+        "The NTA (National Transport Authority) and the RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "compliance-and-authorities"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-029",
+      "module": "driver-licensing",
+      "lessonId": "licence-validity-renewal",
+      "questionNumber": 29,
+      "questionText": "If a driver loses their smart card, what should they do?",
+      "type": "single",
+      "options": [
+        "Nothing",
+        "Report the lost card directly to the NTA",
+        "Report the lost card to the RSA",
+        "Report the lost card to their nearest Garda PSV Office"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "licence-validity-renewal"
+      ],
+      "source": "FREE_NOW"
+    },
+    {
+      "id": "DRIVER-030",
+      "module": "driver-licensing",
+      "lessonId": "penalties-and-offences",
+      "questionNumber": 30,
+      "questionText": "What is the maximum fine for displaying forged driver identification on an SPSV?",
+      "type": "single",
+      "options": [
+        "€1,000",
+        "€2,500",
+        "€250",
+        "€500"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": "Recorded from the verified FREE_NOW Driver Licensing answer key. Add official NTA reference during the audit pass.",
+      "memoryTip": "Read the key wording first: authority, licence type, card colour, renewal, pickup, or penalty.",
+      "commonMistake": "Do not guess from general driving knowledge; SPSV licensing has specific authority and licence rules.",
+      "tags": [
+        "penalties-and-offences"
+      ],
+      "source": "FREE_NOW"
+    }
+  ]
+}

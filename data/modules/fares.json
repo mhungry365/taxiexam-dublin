@@ -1,0 +1,165 @@
+{
+  "id": "fares",
+  "title": "Learn Fares lesson by lesson.",
+  "eyebrow": "Fares module",
+  "description": "Study fare topics in focused lessons, take a mini quiz, review wrong answers, and finish with a mixed Fares test using every loaded original question.",
+  "targetQuestionCount": 44,
+  "lessons": [
+    {
+      "id": "fare-basics",
+      "title": "Fare Basics",
+      "intro": "Start with the core ideas: when a fare begins, what the passenger can expect, and how a fare should be handled clearly.",
+      "memoryTrick": "Before fare detail, remember the three Cs: confirm, charge correctly, communicate.",
+      "commonMistakes": [
+        "Mixing general fare duties with extra-charge rules",
+        "Forgetting receipt and passenger communication basics"
+      ],
+      "tags": [
+        "fare-basics",
+        "receipts"
+      ]
+    },
+    {
+      "id": "standard-premium-special-rates",
+      "title": "Standard, Premium and Special Rates",
+      "intro": "Learn how rate types differ so you can recognise the correct charging context quickly.",
+      "memoryTrick": "Standard is the baseline, premium is time-sensitive, special is event or rule-specific.",
+      "commonMistakes": [
+        "Treating premium and special rates as the same thing",
+        "Missing the condition that triggers a rate"
+      ],
+      "tags": [
+        "standard-rate",
+        "premium-rate",
+        "special-rate"
+      ]
+    },
+    {
+      "id": "tariff-a-tariff-b",
+      "title": "Tariff A and Tariff B",
+      "intro": "Focus on the difference between Tariff A and Tariff B and when each one applies.",
+      "memoryTrick": "A comes first; B begins after the Tariff A threshold.",
+      "commonMistakes": [
+        "Choosing the tariff from habit instead of the question facts",
+        "Ignoring time, date, or rate clues"
+      ],
+      "tags": [
+        "tariff-a",
+        "tariff-b"
+      ]
+    },
+    {
+      "id": "time-vs-distance-charging",
+      "title": "Time vs Distance Charging",
+      "intro": "Understand when the fare is affected by time, distance, traffic, or waiting.",
+      "memoryTrick": "Fast means distance; slow traffic means time.",
+      "commonMistakes": [
+        "Assuming only distance changes the fare",
+        "Missing slow-speed wording"
+      ],
+      "tags": [
+        "time",
+        "distance",
+        "waiting"
+      ]
+    },
+    {
+      "id": "extra-charges",
+      "title": "Extra Charges",
+      "intro": "Practise recognising valid extra charges and spotting charges that should not be added.",
+      "memoryTrick": "Extras need a rule. If no rule supports it, do not add it.",
+      "commonMistakes": [
+        "Adding extras because a trip feels inconvenient",
+        "Confusing luggage, passenger, booking, toll, or soiling charges"
+      ],
+      "tags": [
+        "extras",
+        "charges"
+      ]
+    },
+    {
+      "id": "taximeter-rules",
+      "title": "Taximeter Rules",
+      "intro": "Review how the taximeter should be used, displayed, and relied on during a journey.",
+      "memoryTrick": "Meter visible, meter correct, meter used.",
+      "commonMistakes": [
+        "Starting the meter at the wrong moment",
+        "Forgetting calibration or visibility rules"
+      ],
+      "tags": [
+        "taximeter",
+        "meter"
+      ]
+    },
+    {
+      "id": "fixed-payment-offences",
+      "title": "Fixed Payment Offences",
+      "intro": "Learn the offence patterns that lead to fixed payment notices.",
+      "memoryTrick": "Penalty questions usually turn on one key action: fail, refuse, display, operate, or comply.",
+      "commonMistakes": [
+        "Mixing up €80, €150 and €250 offences",
+        "Reading offence questions as general customer-service questions"
+      ],
+      "tags": [
+        "offences",
+        "fixed-payment"
+      ]
+    },
+    {
+      "id": "customer-service-driver-rights",
+      "title": "Customer Service and Driver Rights",
+      "intro": "Balance passenger service expectations with the rights and responsibilities of a professional driver.",
+      "memoryTrick": "Be fair, be clear, be professional.",
+      "commonMistakes": [
+        "Assuming drivers must accept every situation",
+        "Forgetting passenger-facing duties such as receipts"
+      ],
+      "tags": [
+        "customer-service",
+        "driver-rights",
+        "receipts"
+      ]
+    },
+    {
+      "id": "final-mixed-fares-test",
+      "title": "Final Mixed Fares Test",
+      "intro": "Take every Fares question together to check whether you can handle mixed wording without lesson hints.",
+      "memoryTrick": "Read facts first, identify topic second, choose rule last.",
+      "commonMistakes": [
+        "Answering by lesson title instead of question facts",
+        "Rushing rate, tariff, and extra-charge questions"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "FARES-001",
+      "module": "fares",
+      "lessonId": "customer-service-driver-rights",
+      "questionNumber": 1,
+      "questionText": "When should a taxi driver be prepared to provide a receipt?",
+      "type": "single",
+      "options": [
+        "When the passenger requests one",
+        "Only for airport journeys",
+        "Only when paid by card",
+        "Only for journeys over 20 euro"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": "A professional SPSV service should support receipts when requested by the passenger.",
+      "memoryTip": "Receipt questions usually turn on the passenger request.",
+      "commonMistake": "Do not limit receipt duties to a payment method, journey type, or fare amount unless the original question says so.",
+      "tags": [
+        "receipts",
+        "customer-service"
+      ],
+      "source": "FREE_NOW"
+    }
+  ]
+}

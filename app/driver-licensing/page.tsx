@@ -1,13 +1,13 @@
 import { LearningModule } from "@/components/taxiexam/learning-module";
 import { getLearningModule } from "@/lib/module-data";
 
-const moduleData = getLearningModule("fares");
+const moduleData = getLearningModule("driver-licensing");
 
 export const metadata = {
-  title: "Fares Module"
+  title: "Driver Licensing Module"
 };
 
-export default function FaresPage() {
+export default function DriverLicensingPage() {
   return (
     <section className="section bg-snow">
       <div className="container">

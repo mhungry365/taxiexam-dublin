@@ -1,0 +1,2734 @@
+{
+  "id": "spsv-industry",
+  "title": "Learn SPSV Industry lesson by lesson.",
+  "eyebrow": "SPSV Industry module",
+  "description": "Study authorities, operations, compliance, safety, customer service, licensing and maps in focused lessons.",
+  "targetQuestionCount": 91,
+  "lessons": [
+    {
+      "id": "industry-authorities-compliance",
+      "title": "Industry Authorities, Compliance and Offences",
+      "intro": "NTA, Garda, RSA, compliance officers, complaints and fixed-payment offences.",
+      "memoryTrick": "NTA regulates SPSV services; Garda enforce road and licence obligations.",
+      "commonMistakes": [
+        "Rushing similar questions",
+        "Confusing SPSV-specific rules with general rules"
+      ],
+      "tags": [
+        "industry-authorities-compliance"
+      ]
+    },
+    {
+      "id": "taxi-operation-ranks-dispatch",
+      "title": "Taxi Operation, Ranks, Dispatch and Fares",
+      "intro": "Taxi ranks, standing for hire, dispatch, roof signs, meters, fares and receipts.",
+      "memoryTrick": "Rank, roof sign, meter and receipt belong to daily taxi operation.",
+      "commonMistakes": [
+        "Rushing similar questions",
+        "Confusing SPSV-specific rules with general rules"
+      ],
+      "tags": [
+        "taxi-operation-ranks-dispatch"
+      ]
+    },
+    {
+      "id": "vehicle-roadworthiness-safety",
+      "title": "Vehicle Roadworthiness and Safety",
+      "intro": "Tyres, lights, windows, equipment, suitability and passenger safety.",
+      "memoryTrick": "Tyres, lights, glass and equipment must all pass.",
+      "commonMistakes": [
+        "Rushing similar questions",
+        "Confusing SPSV-specific rules with general rules"
+      ],
+      "tags": [
+        "vehicle-roadworthiness-safety"
+      ]
+    },
+    {
+      "id": "customer-service-passenger-rights",
+      "title": "Customer Service and Passenger Rights",
+      "intro": "Complaints, difficult passengers, refusal rights and professional conduct.",
+      "memoryTrick": "Stay calm, professional and passenger-focused.",
+      "commonMistakes": [
+        "Rushing similar questions",
+        "Confusing SPSV-specific rules with general rules"
+      ],
+      "tags": [
+        "customer-service-passenger-rights"
+      ]
+    },
+    {
+      "id": "licensing-inspections-documents",
+      "title": "Licensing, Inspections and Required Documents",
+      "intro": "Licences, assessments, tamper-proof discs and required documents.",
+      "memoryTrick": "Licence valid, disc visible, documents ready.",
+      "commonMistakes": [
+        "Rushing similar questions",
+        "Confusing SPSV-specific rules with general rules"
+      ],
+      "tags": [
+        "licensing-inspections-documents"
+      ]
+    },
+    {
+      "id": "maps-area-knowledge",
+      "title": "Maps and Area Knowledge",
+      "intro": "Routes, road classifications and grid-reference questions.",
+      "memoryTrick": "Read the legend, trace the route, confirm the grid.",
+      "commonMistakes": [
+        "Rushing similar questions",
+        "Confusing SPSV-specific rules with general rules"
+      ],
+      "tags": [
+        "maps-area-knowledge"
+      ]
+    },
+    {
+      "id": "final-mixed-spsv-industry-test",
+      "title": "Final Mixed SPSV Industry Test",
+      "intro": "All 91 questions mixed together.",
+      "memoryTrick": "Identify the topic before choosing the rule.",
+      "commonMistakes": [
+        "Rushing when topics change"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "INDUSTRY-001",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 1,
+      "questionText": "What SPSV Vehicles can use taxi ranks?",
+      "type": "single",
+      "options": [
+        "Hackneys",
+        "Limousines",
+        "Taxi's only",
+        "Taxis and Wheelchair Accessible Taxis"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-002",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 2,
+      "questionText": "Where should you advise passengers with a complaint to go?",
+      "type": "single",
+      "options": [
+        "NTA",
+        "RSA",
+        "NDLS",
+        "mytaxi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-003",
+      "module": "spsv-industry",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 3,
+      "questionText": "Using the map provided. If you are going from St. Angela's Hospital to Mary's Lane, what two National roads will you take?",
+      "type": "single",
+      "options": [
+        "N5 & N52",
+        "N5 & N55",
+        "R122 & N2",
+        "N3 & N7"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-industry/image1.png"
+    },
+    {
+      "id": "INDUSTRY-004",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 4,
+      "questionText": "What contact details can you provide on a taxi roof sign?",
+      "type": "single",
+      "options": [
+        "Dispatch Centre",
+        "Private company advertising",
+        "Driver's phone number",
+        "Taxi registration number"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-005",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 5,
+      "questionText": "When can the meter be started when picking up a wheelchair passenger?",
+      "type": "single",
+      "options": [
+        "After you have secured passenger into the vehicle",
+        "Once you agree to take the passenger or at the pre booked time",
+        "Once you begin driving",
+        "While you are waiting for the passenger"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-006",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 6,
+      "questionText": "Who checks Tamper Proof Disks in SPSV vehicles?",
+      "type": "single",
+      "options": [
+        "Licensing Inspectors",
+        "The NCTS",
+        "The NDLS",
+        "An Garda Síochána"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-007",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 7,
+      "questionText": "How long is lost property from SPSV operators kept by An Garda Siochana?",
+      "type": "single",
+      "options": [
+        "2 months",
+        "3 months",
+        "6 months",
+        "A minimum of 31 days and up to 366 days"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-008",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 8,
+      "questionText": "Where should the in-vehicle Fare Information card be located?",
+      "type": "single",
+      "options": [
+        "Dashboard",
+        "On display in the front and rear of passenger area",
+        "Sunvisor",
+        "Windscreen"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-009",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 9,
+      "questionText": "Which of the following is a taxi NOT allowed have in it?",
+      "type": "single",
+      "options": [
+        "A radio",
+        "Credit card terminal",
+        "Dark tinted windows",
+        "Lightly tinted passenger window"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-010",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 10,
+      "questionText": "What is an SPSV dispatch operator?",
+      "type": "single",
+      "options": [
+        "An individual or organisation that provides a service for taking bookings for SPSV services that are delivered by someone else",
+        "App owners",
+        "Companies with over 10 drivers",
+        "Companies with over 100 drivers"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-011",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 11,
+      "questionText": "Which of the following do you NOT have to check regularly to ensure your vehicle is roadworthy?",
+      "type": "single",
+      "options": [
+        "Horn",
+        "Lights & Mirrors",
+        "Safety equipment",
+        "Seatbelts"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-012",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 12,
+      "questionText": "What item of equipment is not required for safety in an SPSV vehicle?",
+      "type": "single",
+      "options": [
+        "Defibrillator",
+        "Advanced warning triangle",
+        "High visibility vest",
+        "Fire extinguisher"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-013",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 13,
+      "questionText": "Which official body is responsible for verifying that a vehicle can be used as a SPSV?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Department of Transport",
+        "The NTA (National Transport Authority)",
+        "The Road Safety Authority (RSA)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-014",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 14,
+      "questionText": "Who has the authority to inspect licences in a public place?",
+      "type": "single",
+      "options": [
+        "Any memeber of the public",
+        "Compliance Officers",
+        "RSA Officers",
+        "Vehicle Inspection Technical Assessor's"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-015",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 15,
+      "questionText": "Where should the National Maximum Taxi Fare sticker be displayed?",
+      "type": "single",
+      "options": [
+        "Front passenger area",
+        "Rear headrest",
+        "On the taxi roof sign",
+        "Rear passenger area"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-016",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 16,
+      "questionText": "If you are stopped and the tyres on your car read 1.4mm thread depth what would happen?",
+      "type": "single",
+      "options": [
+        "This is fine",
+        "You are no longer permitted to drive on public roads",
+        "You can drive but will need to get them replaced",
+        "You can drive providing the back tyres are at least 1.8mm"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-017",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 17,
+      "questionText": "Who do you pay your annual taxi fees to?",
+      "type": "single",
+      "options": [
+        "The NTA",
+        "The NCTS",
+        "The Department of Transport",
+        "An Garda Síochána"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-018",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 18,
+      "questionText": "What information must be displayed in-vehicle for passengers to view?",
+      "type": "single",
+      "options": [
+        "Information Card",
+        "Information Card and Information Sticker",
+        "Information Sticker",
+        "NCT & Insurance"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-019",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 19,
+      "questionText": "What does a the Roman Numeral V signify on a window?",
+      "type": "single",
+      "options": [
+        "The glass is too weak to pass the suitability test",
+        "The window is in perfect condition to pass the suitability test",
+        "Windows do not allow enough light to pass through the Suitability test",
+        "The window does not open"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-020",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 20,
+      "questionText": "The Fixed Payment Offence \"Failure to comply with taxi roof sign requirements\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€120",
+        "€250",
+        "€100",
+        "€60"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-021",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 21,
+      "questionText": "The Gardaí stop a driver who has one brake light broken. What is the outcome?",
+      "type": "single",
+      "options": [
+        "The car is unroadworthy and must be taken off the road immediately",
+        "You are not safe to operate and will be ordered to fix the light",
+        "You are safe to operate the vehicle but must fix",
+        "You must cease to operate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-022",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 22,
+      "questionText": "Who would investigate breaches of the ban on smoking in the workplace?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "Local County Council",
+        "The NTA (National Transport Authority)",
+        "The National Tobacco Control Office"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-023",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 23,
+      "questionText": "Which of the following describes a taxi standing for hire?",
+      "type": "single",
+      "options": [
+        "The taxi has a passenger and is en route",
+        "The taxi is in motion and available for hire",
+        "The taxi is parked on a road",
+        "The taxi is stationary and available for hire"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-024",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 24,
+      "questionText": "Which of the following bodies does NOT sit on the Special Advisory Committee for taxis in Ireland?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "Cultural interests",
+        "Local Authorities",
+        "Tourism bodies"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-025",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 25,
+      "questionText": "When can an Inspector issue a 'spot fine'?",
+      "type": "single",
+      "options": [
+        "Failure to display Tamper proof disk",
+        "Failure to display required driver identification",
+        "Failure to comply with taxi roof sign requirements",
+        "All of the Above"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-026",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 26,
+      "questionText": "What are extra charges for a family of one mother and two children (7 & 9 years old)?",
+      "type": "single",
+      "options": [
+        "€1.00",
+        "€2.00",
+        "€2.50",
+        "€3.00"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-027",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 27,
+      "questionText": "Is the test to determine the comfort of your vehicle a roadworthiness test or a suitability test?",
+      "type": "single",
+      "options": [
+        "Aerodynamic test",
+        "National Car Test (NCT)",
+        "Roadworthiness test",
+        "Suitability Test"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-028",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 28,
+      "questionText": "Where a licenced SPSV driver gets another form of employment, who must be informed?",
+      "type": "single",
+      "options": [
+        "All of the above",
+        "An Garda Síochána",
+        "National Transport Authority",
+        "Road Safety Authority"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-029",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 29,
+      "questionText": "How can you manage difficult passengers?",
+      "type": "single",
+      "options": [
+        "Force them to leave the vehicle",
+        "Raise your voice and match aggression",
+        "Charge the passenger double",
+        "Interact, stay calm and controlled, listen, if all else fails then refer the matter to the NTA"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-030",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 30,
+      "questionText": "The driver has a right to refuse what type of passenger?",
+      "type": "single",
+      "options": [
+        "Blind passenger with guide dog",
+        "Disabled passenger",
+        "Disorderly passenger",
+        "Tall passenger"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-031",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 31,
+      "questionText": "At what temperature should the inside of your vehicle be when it is -5°C outside?",
+      "type": "single",
+      "options": [
+        "10 degrees",
+        "15 degrees",
+        "20 degrees",
+        "30 degrees"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-032",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 32,
+      "questionText": "During a licence renewal assessment who removes the tamper proof disc from the front and rear windows of the vehicle?",
+      "type": "single",
+      "options": [
+        "An Garda Siochana",
+        "The licensing inspector",
+        "The regional administrator",
+        "They must be removed in advance of the assessment"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-033",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 33,
+      "questionText": "When talking with a customer it is recommended that you don't say:",
+      "type": "single",
+      "options": [
+        "How was your day",
+        "Lovely weather",
+        "What do you think about the recent election",
+        "Where are you visiting from"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-034",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 34,
+      "questionText": "Which of the following is a Fixed Payment Offence?",
+      "type": "single",
+      "options": [
+        "Failure to maintain average speed of 25km/h",
+        "Failure to make available a receipt upon completion of a journey",
+        "Failure to provide phone charging facility",
+        "Failure to reach destination in estimated time"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-035",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 35,
+      "questionText": "Which of the following is permitted on a taxi?",
+      "type": "single",
+      "options": [
+        "Blacked out window",
+        "Convertable",
+        "Properly fitted sunroof",
+        "Side facing seats"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-036",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 36,
+      "questionText": "What is the minimum number of litres required for the boot of a taxi? (minimum luggage capacity)",
+      "type": "single",
+      "options": [
+        "480",
+        "420",
+        "460",
+        "380"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-037",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 37,
+      "questionText": "What does NOT need to be on a taxi receipt?",
+      "type": "single",
+      "options": [
+        "Date & Time",
+        "Driver Name",
+        "Taxi licence number",
+        "Vehicle registration"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-038",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 38,
+      "questionText": "The NTA (National Transport Authority) will deal with which of the following complaints:",
+      "type": "single",
+      "options": [
+        "All are correct",
+        "Overcharging or other matters relating to fares",
+        "The condition, roadworthiness and cleanliness of a vehicle",
+        "The conduct, behaviour and identification of a driver"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-039",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 39,
+      "questionText": "What is the minimum work experience required for a Technical Assessor to inspect a vehicle?",
+      "type": "single",
+      "options": [
+        "5 years",
+        "1",
+        "4",
+        "3"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-040",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 40,
+      "questionText": "What do the NTA have to do with the Taxi Advisory Committee's advice when arriving at decisions?",
+      "type": "single",
+      "options": [
+        "Consider the advice",
+        "Dismiss the advice",
+        "Log the advice",
+        "Strictly implement the advice"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-041",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 41,
+      "questionText": "If a taxi driver cannot pay a fine, what will the Commission do?",
+      "type": "single",
+      "options": [
+        "They may pursue with prosecution",
+        "They will increase the level of the fine",
+        "The failure to pay the fine will appear on their criminal record",
+        "The driver's vehicle license will be revoked"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-042",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 42,
+      "questionText": "What is the purpose of a compliance officer?",
+      "type": "single",
+      "options": [
+        "To make sure an SPSV Vehcile is roadworthy",
+        "to make sure SPSV drivers are compliant to the NTA Guidelines",
+        "To make sure passengers are compliant to NTA guidelines",
+        "To check SPSV test results"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-043",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 43,
+      "questionText": "This receipt is from which type of SPSV?",
+      "type": "single",
+      "options": [
+        "Hackney",
+        "Limousine",
+        "Taxi",
+        "Wheelchair Hackney"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-industry/image2.png"
+    },
+    {
+      "id": "INDUSTRY-044",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 44,
+      "questionText": "Which of the following SPSV vehicles does NOT have to carry the required safety equipment?",
+      "type": "single",
+      "options": [
+        "All SPSV vehicles must carry the required safety equipment",
+        "Limo",
+        "Local area Hackney",
+        "Taxi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-045",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 45,
+      "questionText": "What Qualifications must a Technical assessor have in order to carry out a vehicle inspection?",
+      "type": "single",
+      "options": [
+        "Level 5 engineering qualification",
+        "Level 6 engineering Qualification",
+        "Level 7 engineering Qualification",
+        "Level 3 engineering qualification"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-046",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 46,
+      "questionText": "What is the minimum tyre tread depth?",
+      "type": "single",
+      "options": [
+        "1.5mm",
+        "1.6mm",
+        "1.8mm",
+        "1.9mm"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-047",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 47,
+      "questionText": "How do you ensure a customer's safety?",
+      "type": "single",
+      "options": [
+        "Drive above speed limits",
+        "Drive slowly",
+        "Offer to fasten passenger seatbelt yourself",
+        "Remind them to put on their seat belt before starting the journey and carry required safety equipment"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-048",
+      "module": "spsv-industry",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 48,
+      "questionText": "Using the map provided, how would you get from Crokes Gaelic Ground to Ashington Technical College?",
+      "type": "single",
+      "options": [
+        "Head south on Station Road, continue on to St. Joseph's Road, take a left onto Eden Court and continue onto Mary's Lane, take a right onto Shop Street, take a left onto Reily Road and then a right onto James's Street",
+        "Head south on Station Road, take a right onto Peter Street, take a left onto Main Street and then a left onto James' Street."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-industry/image3.png"
+    },
+    {
+      "id": "INDUSTRY-049",
+      "module": "spsv-industry",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 49,
+      "questionText": "Using the map provided. What grid is the Kilbride Shopping Center mostly in?",
+      "type": "single",
+      "options": [
+        "A2",
+        "C2",
+        "B5",
+        "D2"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-industry/image4.png"
+    },
+    {
+      "id": "INDUSTRY-050",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 50,
+      "questionText": "Which of these organisations amends driving standards?",
+      "type": "single",
+      "options": [
+        "HSE",
+        "An Garda Siochana",
+        "NTA",
+        "RSA"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-051",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 51,
+      "questionText": "Who ensures all SPSV licenced drivers meet the required criteria?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Irish Taxi Drivers Federation",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-052",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 52,
+      "questionText": "When do you need to have tax clearance?",
+      "type": "single",
+      "options": [
+        "For the majority of your licence period",
+        "Tax clearance is not relevant to SPSV drivers",
+        "Throughout the period of your licence",
+        "You do not need to have tax clearance"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-053",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 53,
+      "questionText": "When did the \"No Smoking\" regulation come into force?",
+      "type": "single",
+      "options": [
+        "2004",
+        "2003",
+        "2005",
+        "2000"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-054",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 54,
+      "questionText": "What item would help as a security measure?",
+      "type": "single",
+      "options": [
+        "An extra rear view mirror",
+        "An extra side mirror",
+        "CCTV camera",
+        "Door child lock"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-055",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 55,
+      "questionText": "What do the NTA (National Transport Authority) have to do with the Taxi Advisory Committee's advice?",
+      "type": "single",
+      "options": [
+        "Consider it",
+        "Ignore it",
+        "Implement it word for word",
+        "Implement some of it"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-056",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 56,
+      "questionText": "How many demerits on a driver's SPSV licence will lead to a three month suspension?",
+      "type": "single",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-057",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 57,
+      "questionText": "In order to comply with SPSV regulations, where should you keep your smart card?",
+      "type": "single",
+      "options": [
+        "Glovebox",
+        "Keep in your possession at all times",
+        "Leave it at home in safe place",
+        "On the dashboard"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-058",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 58,
+      "questionText": "What is the purpose of the Advisory Council?",
+      "type": "single",
+      "options": [
+        "It advises the NTA as appropriate in relation to issues relevant to SPSVs and their operators",
+        "It advises taxi drivers on best practices",
+        "It gives advice to passengers who make complaints",
+        "It gives advice to taxi drivers on filing taxes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-059",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 59,
+      "questionText": "Can a fee be charged for payment by credit/debit card?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes, 10%",
+        "Yes, 12.5%",
+        "Yes, 5%"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-060",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 60,
+      "questionText": "When do you have a right to refuse offering a service?",
+      "type": "single",
+      "options": [
+        "When a customer has a lot of shopping bags",
+        "When a customer has a service dog with them",
+        "When a customer is disabled",
+        "When a customer is eating food"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-061",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 61,
+      "questionText": "Who appoints the Taxi Advisory Committee?",
+      "type": "single",
+      "options": [
+        "An Taoiseach",
+        "The Minister for Transport",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-062",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 62,
+      "questionText": "Who is responsible for enforcing SPSV regulations?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Local County Council",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-063",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 63,
+      "questionText": "If you want to use CCTV in court, who do you contact for permission?",
+      "type": "single",
+      "options": [
+        "Data Protection Agency",
+        "Revenue",
+        "An Garda Síochána",
+        "Court Service"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-064",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 64,
+      "questionText": "What is the maximum fee a driver can charge for damage done to his/her vehicle?",
+      "type": "single",
+      "options": [
+        "€100",
+        "€140",
+        "€50",
+        "€75"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-065",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 65,
+      "questionText": "If a passenger leaves an item in your vehicle who do you return it to?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Department of Transport",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-066",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 66,
+      "questionText": "Which SPSV drivers must provide receipts to customers?",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "Hackneys",
+        "Limousines",
+        "Taxis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-067",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 67,
+      "questionText": "Which of the following is NOT a role of the NTA in SPSV operations?",
+      "type": "single",
+      "options": [
+        "Investigating complaints",
+        "Licensing vehicles for use as SPSVs",
+        "Monitoring SPSV legislation compliance",
+        "Speed limit breaches"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-068",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 68,
+      "questionText": "Can an SPSV driver charge less than the figure shown on their meter?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-069",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 69,
+      "questionText": "If you arrive at a rank with capacity for 4 cars and its full, what should you do?",
+      "type": "single",
+      "options": [
+        "Drive to the feeder rank if available",
+        "Leave you car unattended",
+        "Park parallel to the taxi rank",
+        "Use public parking if available"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-070",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 70,
+      "questionText": "Can you refuse a customer who wants to go 40km?",
+      "type": "single",
+      "options": [
+        "yes",
+        "no",
+        "on weekdays",
+        "on weekends"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-071",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 71,
+      "questionText": "If Driver A (an SPSV licence holder) lends his vehicle to Driver B, can he operate that vehicle as an SPSV?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-072",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 72,
+      "questionText": "Who doesn't represent SPSV license holders on the National Taxi Advisory Committee?",
+      "type": "single",
+      "options": [
+        "Industry personnel",
+        "Passengers",
+        "Taxi drivers",
+        "The NTA (National Transport Authority)"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-073",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 73,
+      "questionText": "Is the NCT the same as the suitability test?",
+      "type": "single",
+      "options": [
+        "NO",
+        "YES"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-074",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 74,
+      "questionText": "Which official body is responsible for local taxi ranks?",
+      "type": "single",
+      "options": [
+        "The Department of Transport",
+        "The Local Authorities",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-075",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 75,
+      "questionText": "Which body is responsible for meter verification and sealing?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Legal Metrology Service",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-076",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 76,
+      "questionText": "Fixed Payment Offence \"Unreasonable refusal to carry a passenger where the journey is not more than 30 kilometres\" carries a penalty of:",
+      "type": "single",
+      "options": [
+        "€120",
+        "€40",
+        "€60",
+        "€150"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-077",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 77,
+      "questionText": "How long do an Gardaí keep an item held by them as lost property?",
+      "type": "single",
+      "options": [
+        "2 Months",
+        "2 Weeks",
+        "6 Months",
+        "Between 31 and 366 days"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-078",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 78,
+      "questionText": "Which of the following is an SPSV driver NOT required to carry in the vehicle?",
+      "type": "single",
+      "options": [
+        "A fire extinguisher",
+        "A hazard triangle",
+        "A hi-vis jacket",
+        "A rope"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-079",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 79,
+      "questionText": "Which of the following is NOT a ground for discrimination under the Equal Status Acts?",
+      "type": "single",
+      "options": [
+        "Education level",
+        "Family Status",
+        "Gender",
+        "Marital Status"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-080",
+      "module": "spsv-industry",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 80,
+      "questionText": "Using the map provided. What grid is the Church in?",
+      "type": "single",
+      "options": [
+        "A5",
+        "B3",
+        "B5",
+        "C5"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-industry/image5.png"
+    },
+    {
+      "id": "INDUSTRY-081",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 81,
+      "questionText": "Are customers required to take the taxi at the top of a taxi rank?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-082",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 82,
+      "questionText": "To renew your SPSV driver licence, you must hold:",
+      "type": "single",
+      "options": [
+        "NCT, insurance certificate and passport",
+        "PPSN, tax discs and NCT",
+        "Tax discs, NCT and insurance certificate",
+        "Valid full Irish driving licence or equivalent, A valid SPSV driver licence and Up-to-date tax clearance status."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-083",
+      "module": "spsv-industry",
+      "lessonId": "customer-service-passenger-rights",
+      "questionNumber": 83,
+      "questionText": "Can you refuse a customer who wants to go 1km?",
+      "type": "single",
+      "options": [
+        "no",
+        "yes",
+        "on weekdays",
+        "on weekends"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "customer-service-passenger-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-084",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 84,
+      "questionText": "What is the minimum permitted width of the back seat of a taxi?",
+      "type": "single",
+      "options": [
+        "1300 mm",
+        "1360 mm",
+        "1400 mm",
+        "1460 mm"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-085",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 85,
+      "questionText": "What year was the current Taxi Regulation Act introduced in Ireland?",
+      "type": "single",
+      "options": [
+        "2001",
+        "2005",
+        "2009",
+        "2013"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-086",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 86,
+      "questionText": "For protection, what can a taxi driver install in his/her car?",
+      "type": "single",
+      "options": [
+        "All are correct",
+        "Fit a safety screen behind driver seat",
+        "Install a CCTV dashcam",
+        "Install a GPS tracker app on you phone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-087",
+      "module": "spsv-industry",
+      "lessonId": "industry-authorities-compliance",
+      "questionNumber": 87,
+      "questionText": "Driver A works from 12 noon to midnight Monday, Tuesday & Wednesday. Driver B works from 6am to 6pm Monday, Tuesday & Wednesday. Driver C works from 4am to midnight Monday, Tuesday & Wednesday. All drivers take an hour break during their shift. Which one is breaking the law?",
+      "type": "single",
+      "options": [
+        "Driver B",
+        "Driver C",
+        "Driver A",
+        "All of them"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "industry-authorities-compliance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-088",
+      "module": "spsv-industry",
+      "lessonId": "vehicle-roadworthiness-safety",
+      "questionNumber": 88,
+      "questionText": "Who is responsible for local taxi ranks?",
+      "type": "single",
+      "options": [
+        "Local Authorities",
+        "The Department of Transport",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "vehicle-roadworthiness-safety"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-089",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 89,
+      "questionText": "Can an SPSV driver be licensed in more than one county?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-090",
+      "module": "spsv-industry",
+      "lessonId": "licensing-inspections-documents",
+      "questionNumber": 90,
+      "questionText": "Where should you display your license info card?",
+      "type": "single",
+      "options": [
+        "In the glovebox",
+        "On the back of driver headrest",
+        "On the dashboard",
+        "On the windscreen"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "licensing-inspections-documents"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "INDUSTRY-091",
+      "module": "spsv-industry",
+      "lessonId": "taxi-operation-ranks-dispatch",
+      "questionNumber": 91,
+      "questionText": "Taxi meter must be connected to what?",
+      "type": "single",
+      "options": [
+        "Stereo",
+        "Camera",
+        "Lights",
+        "Printer"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Industry question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not mix general road rules with SPSV industry-specific responsibilities.",
+      "tags": [
+        "spsv-industry",
+        "taxi-operation-ranks-dispatch"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    }
+  ]
+}

@@ -1,61 +1,112 @@
-import { AlertTriangle, CheckCircle2, Timer } from "lucide-react";
+import Link from "next/link";
+import { Clock3, Layers3, ListChecks, Trophy } from "lucide-react";
 import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { QuizRunner } from "@/components/taxiexam/quiz-runner";
-import { examModules, sampleQuestions } from "@/lib/taxiexam-data";
+import { MixedMockEngine } from "@/components/taxiexam/mock/mixed-mock-engine";
 
-export const metadata = {
-  title: "Mock Exam"
-};
+type MockLength = 25 | 40 | 60 | "all";
 
-export default function MockExamPage() {
+function parseMockLength(value?: string): MockLength | null {
+  if (value === "25") return 25;
+  if (value === "40") return 40;
+  if (value === "60") return 60;
+  if (value === "all") return "all";
+
+  return null;
+}
+
+export default async function MockExamPage({
+  searchParams
+}: {
+  searchParams: Promise<{ size?: string }>;
+}) {
+  const { size } = await searchParams;
+  const mockLength = parseMockLength(size);
+
+  if (!mockLength) {
+    return (
+      <section className="section bg-snow">
+        <div className="container">
+          <div className="mb-8">
+            <p className="font-bold text-teal">Mixed mock exam</p>
+
+            <h1 className="mt-2 text-4xl font-black text-navy">
+              Test yourself across every SPSV category
+            </h1>
+
+            <p className="mt-4 max-w-3xl leading-7 text-muted-foreground">
+              Every mock is generated randomly using questions from
+              Fares, Driver Licensing, Accessibility, SPSV Business,
+              Vehicle Licensing and all future categories.
+            </p>
+          </div>
+
+          <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-4">
+            <Link href="/mock-exam?size=25">
+              <Card className="h-full p-6 transition hover:border-teal hover:shadow-lg">
+                <Clock3 className="size-8 text-teal" />
+                <p className="mt-5 font-black text-teal">Quick mock</p>
+                <h2 className="mt-2 text-3xl font-black text-navy">
+                  25 questions
+                </h2>
+              </Card>
+            </Link>
+
+            <Link href="/mock-exam?size=40">
+              <Card className="h-full p-6 transition hover:border-teal hover:shadow-lg">
+                <ListChecks className="size-8 text-teal" />
+                <p className="mt-5 font-black text-teal">Standard mock</p>
+                <h2 className="mt-2 text-3xl font-black text-navy">
+                  40 questions
+                </h2>
+              </Card>
+            </Link>
+
+            <Link href="/mock-exam?size=60">
+              <Card className="h-full p-6 transition hover:border-teal hover:shadow-lg">
+                <Trophy className="size-8 text-teal" />
+                <p className="mt-5 font-black text-teal">Full mock</p>
+                <h2 className="mt-2 text-3xl font-black text-navy">
+                  60 questions
+                </h2>
+              </Card>
+            </Link>
+
+            <Link href="/mock-exam?size=all">
+              <Card className="h-full p-6 transition hover:border-teal hover:shadow-lg">
+                <Layers3 className="size-8 text-teal" />
+                <p className="mt-5 font-black text-teal">Master test</p>
+                <h2 className="mt-2 text-3xl font-black text-navy">
+                  All questions
+                </h2>
+              </Card>
+            </Link>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
   return (
     <section className="section bg-snow">
       <div className="container">
-        <div className="grid gap-8 lg:grid-cols-[0.8fr_1.2fr]">
+        <div className="mb-7 flex flex-col justify-between gap-4 md:flex-row md:items-end">
           <div>
-            <div className="flex items-center gap-2 font-bold text-teal">
-              <Timer aria-hidden />
-              Full timed exam mode
-            </div>
-            <h1 className="mt-3 text-4xl font-black text-navy">Separate pass/fail scoring for both modules.</h1>
-            <p className="mt-4 leading-7 text-muted-foreground">
-              A production mock pulls 54 active Industry Knowledge questions and 36 active Dublin Area Knowledge questions, records every answer, and unlocks wrong-answer review at the end.
-            </p>
-            <div className="mt-6 grid gap-4">
-              {examModules.map((module) => (
-                <Card key={module.key} className="p-5">
-                  <p className="font-black text-navy">{module.name}</p>
-                  <div className="mt-3 grid grid-cols-3 gap-3 text-sm">
-                    <div className="rounded-md bg-muted p-3"><b>{module.questions}</b><br />questions</div>
-                    <div className="rounded-md bg-muted p-3"><b>{module.target}%</b><br />pass</div>
-                    <div className="rounded-md bg-cream p-3"><b>{module.ready}%+</b><br />ready</div>
-                  </div>
-                </Card>
-              ))}
-            </div>
-            <Card className="mt-6 p-5">
-              <div className="flex items-center gap-3">
-                <AlertTriangle className="text-coral" aria-hidden />
-                <p className="font-black text-navy">Result logic</p>
-              </div>
-              <p className="mt-3 text-sm leading-6 text-muted-foreground">Users pass only when they score at least 75% in each module. The app still recommends waiting until 85%+ is repeatable.</p>
-            </Card>
+            <p className="font-bold text-teal">Random mixed mock</p>
+
+            <h1 className="mt-2 text-4xl font-black text-navy">
+              SPSV Mock Examination
+            </h1>
           </div>
-          <div>
-            <Card className="mb-5 bg-navy p-5 text-white">
-              <div className="flex items-center gap-3">
-                <CheckCircle2 className="text-gold" aria-hidden />
-                <div>
-                  <p className="font-black">Demo mock preview</p>
-                  <p className="text-sm text-white/70">Sample questions only; add your licensed or original bank in Supabase.</p>
-                </div>
-              </div>
-            </Card>
-            <QuizRunner title="Mock exam sample" questions={sampleQuestions} />
-            <Button className="mt-5 w-full" variant="outline">Review wrong answers</Button>
-          </div>
+
+          <Link
+            href="/mock-exam"
+            className="font-black text-teal hover:underline"
+          >
+            Change mock length
+          </Link>
         </div>
+
+        <MixedMockEngine mockLength={mockLength} />
       </div>
     </section>
   );

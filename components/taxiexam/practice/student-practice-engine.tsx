@@ -16,6 +16,7 @@ type PracticeLength = 15 | 25 | "all";
 type Props = {
   moduleData: LearningModuleData;
   practiceLength: PracticeLength;
+  randomize?: boolean;
 };
 
 function shuffleQuestions<T>(items: T[]): T[] {
@@ -34,15 +35,21 @@ function shuffleQuestions<T>(items: T[]): T[] {
 
 function createQuestionSet(
   questions: LearningQuestion[],
-  practiceLength: PracticeLength
+  practiceLength: PracticeLength,
+  randomize: boolean
 ) {
-  const shuffled = shuffleQuestions(questions);
+  const preparedQuestions = randomize
+    ? shuffleQuestions(questions)
+    : [...questions];
 
   if (practiceLength === "all") {
-    return shuffled;
+    return preparedQuestions;
   }
 
-  return shuffled.slice(0, Math.min(practiceLength, shuffled.length));
+  return preparedQuestions.slice(
+    0,
+    Math.min(practiceLength, preparedQuestions.length)
+  );
 }
 
 function answerIsCorrect(
@@ -65,13 +72,24 @@ function getCorrectAnswerLetters(question: LearningQuestion) {
 
 export function StudentPracticeEngine({
   moduleData,
-  practiceLength
+  practiceLength,
+  randomize = true
 }: Props) {
   const [sessionNumber, setSessionNumber] = useState(1);
 
   const questions = useMemo(
-    () => createQuestionSet(moduleData.questions, practiceLength),
-    [moduleData.questions, practiceLength, sessionNumber]
+    () =>
+      createQuestionSet(
+        moduleData.questions,
+        practiceLength,
+        randomize
+      ),
+    [
+      moduleData.questions,
+      practiceLength,
+      randomize,
+      sessionNumber
+    ]
   );
 
   const [questionIndex, setQuestionIndex] = useState(0);

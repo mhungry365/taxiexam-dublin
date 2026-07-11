@@ -1,0 +1,2187 @@
+{
+  "id": "vehicle-licensing",
+  "title": "Learn Vehicle Licensing lesson by lesson.",
+  "eyebrow": "Vehicle Licensing module",
+  "description": "Study SPSV vehicle applications, renewals, discs, inspections, categories, wheelchair requirements and branding in focused lessons.",
+  "targetQuestionCount": 71,
+  "lessons": [
+    {
+      "id": "licence-applications-renewals",
+      "title": "Applications, Renewals and Licence Updates",
+      "intro": "Applying, renewing, replacing, surrendering and updating SPSV vehicle licences.",
+      "memoryTrick": "Apply with proof, renew early, update the NTA.",
+      "commonMistakes": [
+        "Confusing initial applications with renewal requirements",
+        "Forgetting notice periods and replacement windows"
+      ],
+      "tags": [
+        "applications",
+        "renewals",
+        "nta"
+      ]
+    },
+    {
+      "id": "discs-roof-signs-information",
+      "title": "Tamper-Proof Discs, Roof Signs and Information Cards",
+      "intro": "Disc colours, disc positions, passenger capacity, roof signs and in-vehicle information.",
+      "memoryTrick": "Disc identifies the vehicle; roof sign shows availability.",
+      "commonMistakes": [
+        "Confusing vehicle licence numbers with registration numbers",
+        "Mixing up disc colours between SPSV categories"
+      ],
+      "tags": [
+        "tamper-proof-disc",
+        "roof-sign",
+        "information-card"
+      ]
+    },
+    {
+      "id": "spsv-categories-operating-rights",
+      "title": "SPSV Categories and Operating Rights",
+      "intro": "Taxi, hackney, limousine and wheelchair vehicle categories and where each may operate.",
+      "memoryTrick": "Street pickup belongs to taxi categories.",
+      "commonMistakes": [
+        "Treating buses as SPSVs",
+        "Assuming every SPSV category may use bus lanes or pick up on the street"
+      ],
+      "tags": [
+        "categories",
+        "operating-rights"
+      ]
+    },
+    {
+      "id": "inspections-roadworthiness",
+      "title": "Inspections, Roadworthiness and Technical Reports",
+      "intro": "NCT, suitability inspections, renewal assessments and Technical Assessor reports.",
+      "memoryTrick": "NCT proves roadworthiness; suitability proves SPSV fitness.",
+      "commonMistakes": [
+        "Confusing NCT with suitability inspection",
+        "Using the wrong inspection for a vehicle change or renewal"
+      ],
+      "tags": [
+        "inspection",
+        "nct",
+        "roadworthiness"
+      ]
+    },
+    {
+      "id": "wheelchair-accessible-vehicles",
+      "title": "Wheelchair Accessible Vehicle Licensing",
+      "intro": "Ramps, restraints, passenger capacity, symbols and wheelchair vehicle licence rules.",
+      "memoryTrick": "Ramp, anchor, belt and accessibility symbol.",
+      "commonMistakes": [
+        "Forgetting the separate wheelchair and occupant restraints",
+        "Mixing wheelchair taxi and wheelchair hackney requirements"
+      ],
+      "tags": [
+        "wheelchair",
+        "accessibility"
+      ]
+    },
+    {
+      "id": "advertising-branding-windows",
+      "title": "Advertising, Branding and Windows",
+      "intro": "Advertising limits, official branding areas and window visibility requirements.",
+      "memoryTrick": "Advertising must never hide official taxi information.",
+      "commonMistakes": [
+        "Placing advertising on restricted areas",
+        "Forgetting the minimum visible light transmission"
+      ],
+      "tags": [
+        "advertising",
+        "branding",
+        "windows"
+      ]
+    },
+    {
+      "id": "vehicle-age-standards",
+      "title": "Vehicle Age and Registration Standards",
+      "intro": "How a vehicle's age and birth date are determined for SPSV licensing.",
+      "memoryTrick": "Vehicle age starts at first registration in any country.",
+      "commonMistakes": [
+        "Using manufacture date instead of first registration"
+      ],
+      "tags": [
+        "vehicle-age",
+        "registration"
+      ]
+    },
+    {
+      "id": "final-mixed-vehicle-licensing-test",
+      "title": "Final Mixed Vehicle Licensing Test",
+      "intro": "All 71 Vehicle Licensing questions mixed together.",
+      "memoryTrick": "Identify category, document and inspection before answering.",
+      "commonMistakes": [
+        "Rushing similar licence and inspection questions",
+        "Confusing driver licensing with vehicle licensing"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "VEHICLE-001",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 1,
+      "questionText": "What is the relevant authority that you need to inform if you are updating a rented vehicle?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "The Local County Council",
+        "The NTA (National Transport Authority)",
+        "The RSA (Road Safety Authority)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-002",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 2,
+      "questionText": "Where on a vehicle can an SPSV tamper-proof disc be seen?",
+      "type": "single",
+      "options": [
+        "Front and rear windows",
+        "Left and right rear windows",
+        "Left windows only",
+        "Right windows only"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/vehicle-licensing/image1.png"
+    },
+    {
+      "id": "VEHICLE-003",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 3,
+      "questionText": "How old can a limousine vehicle be?",
+      "type": "single",
+      "options": [
+        "10 years",
+        "3 years",
+        "8 years",
+        "No limit"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-004",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 4,
+      "questionText": "How many years is your SPSV Vehicle Licence issued for?",
+      "type": "single",
+      "options": [
+        "One year",
+        "Five years",
+        "Three years",
+        "10 years"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-005",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 5,
+      "questionText": "What category of SPSV is associated with the shown tamper-proof disc?",
+      "type": "single",
+      "options": [
+        "Limousine",
+        "Local Area Hackney",
+        "Taxi",
+        "Wheelchair Accessible Vehicle"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/vehicle-licensing/image2.png"
+    },
+    {
+      "id": "VEHICLE-006",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 6,
+      "questionText": "What category of SPSV is associated with the shown tamper-proof disc?",
+      "type": "single",
+      "options": [
+        "Limousine",
+        "Local Area Hackney",
+        "Taxi",
+        "Wheelchair Accessible Vehicle"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/vehicle-licensing/image3.png"
+    },
+    {
+      "id": "VEHICLE-007",
+      "module": "vehicle-licensing",
+      "lessonId": "advertising-branding-windows",
+      "questionNumber": 7,
+      "questionText": "What size must any side door advertisements adhere to?",
+      "type": "single",
+      "options": [
+        "1600cm2",
+        "1900cm2",
+        "200cm2",
+        "500cm2"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "advertising-branding-windows"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-008",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 8,
+      "questionText": "Who do you return an expired tamper-proof disc to?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "Keep it safe at home",
+        "The NTA (National Transport Authority) Licensing Inspector",
+        "The Road Safety Authority"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-009",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 9,
+      "questionText": "If you are renting a taxi who is responsible for updating the licence details with the NTA?",
+      "type": "single",
+      "options": [
+        "It is not necessary to update the NTA with a rented vehicle change",
+        "Licenced driver and vehicle owner",
+        "The licenced driver renting the vehicle",
+        "The vehicle owner"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-010",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 10,
+      "questionText": "What must Wheelchair accessible Taxis have displayed on their roof sign?",
+      "type": "single",
+      "options": [
+        "Accessibility Symbol",
+        "Advertisements",
+        "Dispatch operator number",
+        "Drivers mobile phone number"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-011",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 11,
+      "questionText": "Where on an SPSV vehicle does it indicate the maximum allowed number of passengers?",
+      "type": "single",
+      "options": [
+        "The customer information card",
+        "The fare card",
+        "The smart card",
+        "The tamper-proof licence disc"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-012",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 12,
+      "questionText": "All SPSV drivers must provide the Authority with details of the SPSV they will be operating",
+      "type": "single",
+      "options": [
+        "FALSE",
+        "TRUE"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-013",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 13,
+      "questionText": "What notice period is needed when rescheduling a vehicle inspection to avoid a charge?",
+      "type": "single",
+      "options": [
+        "1 working day",
+        "1 working week",
+        "2 working days",
+        "3 working days"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-014",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 14,
+      "questionText": "To obtain a vehicle licence, which TWO of the following must be proven:",
+      "type": "multiple",
+      "options": [
+        "Roadworthiness",
+        "Suitability",
+        "Vehicle less than 2 years old",
+        "Vehicle with low fuel consumption"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-015",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 15,
+      "questionText": "From January 31st 2013 an inactive driver licence can be reactivated after how long?",
+      "type": "single",
+      "options": [
+        "One year",
+        "Six months",
+        "Three years",
+        "Two years"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-016",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 16,
+      "questionText": "What does a Wheelchair taxi have that a regular taxi does not? (multiple answers available)",
+      "type": "multiple",
+      "options": [
+        "Ramps",
+        "Wheelchair anchorages",
+        "Suitable wheelchair seat belts",
+        "Advanced warning triangle"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-017",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 17,
+      "questionText": "Which of the following is found on a taxis In-Vehicle Information card?",
+      "type": "single",
+      "options": [
+        "Information on understanding the metered taxi fare",
+        "Licence operator's name",
+        "Taxi licence number",
+        "Vehicle registration number"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-018",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 18,
+      "questionText": "What is required to book a Vehicle Licence Renewal Assessment?",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "Insurance Certificate",
+        "NCT Certificate",
+        "PPSN"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-019",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 19,
+      "questionText": "What document is submitted when applying for your vehicle licence?",
+      "type": "single",
+      "options": [
+        "NCT Certificate",
+        "Road Tax and Insurance Forms",
+        "Tax Clearance Form",
+        "VL1 Form"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-020",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 20,
+      "questionText": "What sort of inspection is needed when the vehicle is changed?",
+      "type": "single",
+      "options": [
+        "Licence Renewal Assessment",
+        "NCT",
+        "SPSV Test",
+        "Suitability Inspection"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-021",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 21,
+      "questionText": "What should tamper-proof discs display?",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "Number of passengers vehicle is licensed to carry",
+        "Vehicle Licence number",
+        "Vehicle registration number"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-022",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 22,
+      "questionText": "Can Hackneys or Limousines display signs or advertisements?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes",
+        "Yes but only with approval in writing from the NTA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-023",
+      "module": "vehicle-licensing",
+      "lessonId": "vehicle-age-standards",
+      "questionNumber": 23,
+      "questionText": "For SPSV registration purposes, what is considered a vehicle's birth date?",
+      "type": "single",
+      "options": [
+        "the date it was first registered in any country",
+        "the date of manufacture",
+        "the date it was licensed as an SPSV",
+        "when the owner bought it"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "vehicle-age-standards"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-024",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 24,
+      "questionText": "How long before vehicle licence expiry can the renewal process start?",
+      "type": "single",
+      "options": [
+        "3 months",
+        "30 days",
+        "6 months",
+        "60 days"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-025",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 25,
+      "questionText": "What document must you submit when renewing your vehicle licence?",
+      "type": "single",
+      "options": [
+        "Basic Technical Assesor Report",
+        "NCT Certificate",
+        "PSV 15/18 application form",
+        "VL1 Form"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-026",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 26,
+      "questionText": "If you want to pick up customers on the street, what licence is needed?",
+      "type": "single",
+      "options": [
+        "Hackney Licence",
+        "Limousine Licence",
+        "Taxi or Wheelchair Taxi Licence",
+        "Wheelchair Hackney Licence"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-027",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 27,
+      "questionText": "What is the primary reason for a SPSV suitability test?",
+      "type": "single",
+      "options": [
+        "To determine roadworthiness",
+        "To determine that the vehicle is of suitable quality for use as an SPSV",
+        "To make sure driver's deliver a high standard of service",
+        "To make sure the vehicle is comfortable for passengers"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-028",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 28,
+      "questionText": "How much notice do you receive before your SPSV vehicle licence expires?",
+      "type": "single",
+      "options": [
+        "2 weeks",
+        "3 months",
+        "4-8 weeks",
+        "6 months"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-029",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 29,
+      "questionText": "How long after a vehicle licence expires is it possible to apply to have it replaced?",
+      "type": "single",
+      "options": [
+        "12 months",
+        "24 months",
+        "6 months",
+        "3 months"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-030",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 30,
+      "questionText": "Who should be informed if you are updating a rented vehicle?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "Local Authority",
+        "NTA",
+        "RSA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-031",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 31,
+      "questionText": "What is the minimum number of adult passengers with a wheelchair passenger.",
+      "type": "single",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-032",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 32,
+      "questionText": "How often does the licence for a 12 year old vehicle need to be renewed?",
+      "type": "single",
+      "options": [
+        "Every 12 months",
+        "Every 2 years",
+        "Every 3 months",
+        "Every 6 months"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-033",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 33,
+      "questionText": "What is the maximum number of passengers an SPSV can carry?",
+      "type": "single",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-034",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 34,
+      "questionText": "What number is shown on the roof sign of a taxi?",
+      "type": "single",
+      "options": [
+        "Badge number",
+        "Insurance policy number",
+        "Registration number",
+        "Vehicle license number"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-035",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 35,
+      "questionText": "When can a taxi NOT use a bus lane?",
+      "type": "single",
+      "options": [
+        "Carrying a passenger",
+        "Driving home at the end of a shift",
+        "On the way to pick up a pre-book",
+        "Plying for hire"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-036",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 36,
+      "questionText": "When should the roof sign light be turned on?",
+      "type": "single",
+      "options": [
+        "Always",
+        "When the vehicle is available for hire",
+        "When the vehicle is hired",
+        "When the vehicle is in motion"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-037",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 37,
+      "questionText": "When must the NCT certificate of road worthiness be issued?",
+      "type": "single",
+      "options": [
+        "30 days after the Initial Suitability Inspection",
+        "90 days after the Initial Suitability Inspection",
+        "Before passing the SPSV Driving Test",
+        "No more than 90 days before the Initial Suitability Inspection"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-038",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 38,
+      "questionText": "Where on an SPSV does it show the passenger capacity?",
+      "type": "single",
+      "options": [
+        "Dashboard ID",
+        "Insurance disc",
+        "Tamper-proof disc",
+        "Tax disc"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-039",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 39,
+      "questionText": "Why would a Technical Assessor's full or basic report be necessary during an Initial Suitability Inspection?",
+      "type": "single",
+      "options": [
+        "If the vehicle has been modified",
+        "If the vehicle is second hand",
+        "If the vehicle is electric",
+        "If the vehicle is new"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-040",
+      "module": "vehicle-licensing",
+      "lessonId": "advertising-branding-windows",
+      "questionNumber": 40,
+      "questionText": "Advertising on taxis must not:",
+      "type": "single",
+      "options": [
+        "All of the above",
+        "Appear on the roof sign",
+        "Reduce visibility of the In-vehicle information card",
+        "Reduce visibility of the word taxi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "advertising-branding-windows"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-041",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 41,
+      "questionText": "What sort of inspection is needed for a vehicle licence renewal?",
+      "type": "single",
+      "options": [
+        "Licence Renewal Assessment",
+        "NCT",
+        "SPSV Test",
+        "Suitability Inspection"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-042",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 42,
+      "questionText": "What information is needed when calling to book your vehicle licence renewal?",
+      "type": "single",
+      "options": [
+        "Driving Licence",
+        "Insurance Certificate, PPSN, NCT Certificate",
+        "SPSV Driver Licence",
+        "Tax Clearance Certificate"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-043",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 43,
+      "questionText": "The owner of the vehicle (if different from the driver) is guilty of an offence for allowing an unlicensed vehicle to be operated as an SPSV",
+      "type": "single",
+      "options": [
+        "FALSE",
+        "TRUE"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-044",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 44,
+      "questionText": "How much does a new wheelchair accessible vehicle licence cost?",
+      "type": "single",
+      "options": [
+        "€120",
+        "€170",
+        "€200",
+        "€250"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-045",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 45,
+      "questionText": "From which date is the age of the vehicle calculated?",
+      "type": "single",
+      "options": [
+        "Date of first purchase",
+        "Date of first registered",
+        "Date of its first registration in any country.",
+        "Date of manufacturing"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-046",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 46,
+      "questionText": "Which TWO are requirements for a Wheelchair Accessible hackneys?",
+      "type": "multiple",
+      "options": [
+        "Blacked out windows",
+        "Ramp",
+        "Wheelchair Accessibility symbol on door",
+        "Wheelchair Accessibility symbol on roof sign"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-047",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 47,
+      "questionText": "For the Suitability Test, which of the following items doesn't need to be left on the front passenger seat for inspection?",
+      "type": "single",
+      "options": [
+        "High visibility vest",
+        "Passport",
+        "Torch",
+        "Warning triangle"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-048",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 48,
+      "questionText": "NCTs for SPSV vehicles are the same as those for normal cars:",
+      "type": "single",
+      "options": [
+        "FALSE",
+        "Only wheelchair vehicles require an NCT",
+        "Taxis are not subject to an NCT",
+        "TRUE"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-049",
+      "module": "vehicle-licensing",
+      "lessonId": "advertising-branding-windows",
+      "questionNumber": 49,
+      "questionText": "Where on a vehicle is reserved for official taxi branding advertisement only?",
+      "type": "single",
+      "options": [
+        "All doors",
+        "Back doors",
+        "Bonnet",
+        "Front doors"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "advertising-branding-windows"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-050",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 50,
+      "questionText": "What vehicle is NOT be an SPSV vehicle?",
+      "type": "single",
+      "options": [
+        "A coach bus",
+        "Taxi",
+        "Limounsine",
+        "Wheelchair Accessible Vehicle"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-051",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 51,
+      "questionText": "Which of the following is not a SPSV?",
+      "type": "single",
+      "options": [
+        "12 seat passenger bus",
+        "Local area hackney",
+        "Taxi",
+        "Wheelchair accessible taxi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-052",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 52,
+      "questionText": "What colour is a limousine tamper-proof disc?",
+      "type": "single",
+      "options": [
+        "Green",
+        "Silver",
+        "White",
+        "Yellow"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-053",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 53,
+      "questionText": "When must a roof sign be removed?",
+      "type": "single",
+      "options": [
+        "Never",
+        "When it is windy",
+        "When parked outside the driver's residence",
+        "When the vehicle is in a public place but not being operated as a taxi"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-054",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 54,
+      "questionText": "Who is responsible for verifying that a vehicle can be used as an SPSV?",
+      "type": "single",
+      "options": [
+        "An Garda Síochána",
+        "Local Authority",
+        "NTA",
+        "RSA"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-055",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 55,
+      "questionText": "Which category of SPSV is NOT permitted to use the bus lane?",
+      "type": "single",
+      "options": [
+        "Bus",
+        "Taxi",
+        "Wheelchair Accessible Hackney",
+        "Wheelchair Accessible Taxi"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-056",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 56,
+      "questionText": "What are anchorages?",
+      "type": "single",
+      "options": [
+        "Padded part of the seat that supports the customer's back",
+        "Seatbelt buckles",
+        "The parts of the vehicle that wheelchair restraints can be secured to.",
+        "Triangle-shaped visibilility device"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-057",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 57,
+      "questionText": "Which vehicle is allowed to have an adjusted luggage space requirement?",
+      "type": "single",
+      "options": [
+        "electric or hybrid vehicle",
+        "taxi",
+        "limo",
+        "WAV"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-058",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 58,
+      "questionText": "What steps must you complete before surrendering your vehicle licence?",
+      "type": "single",
+      "options": [
+        "All are correct",
+        "Complete the ‘I wish to surrender this Licence’ form on the back of the licence certificate",
+        "Read the declaration and then sign and date it to confirm that you understand and accept it.",
+        "Send the completed form and the tamper-proof discs to the NTA (National Transport Authority)"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-059",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 59,
+      "questionText": "Where on a vehicle should a SPSV tamper-proof disc be?",
+      "type": "single",
+      "options": [
+        "Bonnet",
+        "Front and rear windows",
+        "Left and right front windows",
+        "Left and right rear windows"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-060",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 60,
+      "questionText": "How many vehicles are you allowed operate on an SPSV Licence?",
+      "type": "single",
+      "options": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-061",
+      "module": "vehicle-licensing",
+      "lessonId": "advertising-branding-windows",
+      "questionNumber": 61,
+      "questionText": "Vehicles must have windows that are:",
+      "type": "single",
+      "options": [
+        "100% Clear",
+        "At least 30% visible light transmission",
+        "At least 70% visible light transmission",
+        "No restrictions"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "advertising-branding-windows"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-062",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 62,
+      "questionText": "What does a Technical Assessor's basic report check?",
+      "type": "single",
+      "options": [
+        "Driver's ability",
+        "Driver's insurance rate",
+        "Driver's tax credibility",
+        "The fitness and safety of a vehicle"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-063",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 63,
+      "questionText": "Who can verify the work done to a wheelchair accessible vehicle is adequate?",
+      "type": "single",
+      "options": [
+        "Garage Mechanic",
+        "HSE worker",
+        "Member of An Garda Siochana",
+        "Technical Assessor"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-064",
+      "module": "vehicle-licensing",
+      "lessonId": "spsv-categories-operating-rights",
+      "questionNumber": 64,
+      "questionText": "How many categories of SPSV licences are there?",
+      "type": "single",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "spsv-categories-operating-rights"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-065",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 65,
+      "questionText": "What is the primary purpose for a SPSV Vehicle test?",
+      "type": "single",
+      "options": [
+        "Determine roadworthiness",
+        "Ensure a high standard of customer service",
+        "Ensure quality of vehicles in the SPSV industry",
+        "To make sure the vehicle is luxurious enough"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-066",
+      "module": "vehicle-licensing",
+      "lessonId": "wheelchair-accessible-vehicles",
+      "questionNumber": 66,
+      "questionText": "What are Vehicle Wheelchair Restraints?",
+      "type": "single",
+      "options": [
+        "Features which restrict ability to take wheelchair customers",
+        "Lack of wheelchair ramp",
+        "Slow wheelchair ramps",
+        "Straps or clamps designed to lock in a wheelchair to a vehicle"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "wheelchair-accessible-vehicles"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-067",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 67,
+      "questionText": "For a vehicle operated by more than one driver, how often must the NTA be notified?",
+      "type": "single",
+      "options": [
+        "Every 6 months",
+        "Every month",
+        "Every time the driver starts operating that vehicle",
+        "Only once"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-068",
+      "module": "vehicle-licensing",
+      "lessonId": "inspections-roadworthiness",
+      "questionNumber": 68,
+      "questionText": "What test proves vehicle roadworthiness?",
+      "type": "single",
+      "options": [
+        "Initial Suitability Inspection",
+        "Licence Renewal Assessment",
+        "NCT",
+        "SPSV Test"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "inspections-roadworthiness"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-069",
+      "module": "vehicle-licensing",
+      "lessonId": "discs-roof-signs-information",
+      "questionNumber": 69,
+      "questionText": "What category of SPSV is associated with the shown tamper-proof disc?",
+      "type": "single",
+      "options": [
+        "Limousine",
+        "Local Area Hackney",
+        "Taxi",
+        "Wheelchair Accessible Vehicle"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "discs-roof-signs-information"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/vehicle-licensing/image4.png"
+    },
+    {
+      "id": "VEHICLE-070",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 70,
+      "questionText": "Who's responsibility is it to ensure that the vehicle complies with regulations?",
+      "type": "single",
+      "options": [
+        "An Garda Siochana",
+        "Driver",
+        "NTA",
+        "Vehicle owner"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "VEHICLE-071",
+      "module": "vehicle-licensing",
+      "lessonId": "licence-applications-renewals",
+      "questionNumber": 71,
+      "questionText": "How many categories may a vehicle be licensed for?",
+      "type": "single",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "There is no limit"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Vehicle Licensing question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "First identify whether the question concerns a licence, disc, category, inspection or vehicle standard.",
+      "commonMistake": "Do not mix driver-licence rules with SPSV vehicle-licence rules.",
+      "tags": [
+        "vehicle-licensing",
+        "licence-applications-renewals"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    }
+  ]
+}

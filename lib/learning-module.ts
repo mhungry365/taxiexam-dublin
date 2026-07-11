@@ -16,6 +16,7 @@ export type LearningQuestion = {
   lessonId: string;
   questionNumber: number;
   questionText: string;
+  questionImage?: string;
   type: QuestionType;
   options: string[];
   correctAnswers: number[];

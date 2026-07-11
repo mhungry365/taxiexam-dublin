@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useMemo, useState } from "react";
 import { BookOpenCheck, Search, Tag, Layers3, PlayCircle } from "lucide-react";
 import { Card } from "@/components/ui/card";
@@ -195,6 +196,17 @@ export function QuestionBankBrowser({ initialModuleId }: Props) {
               </p>
 
               <h3 className="mt-2 text-xl font-black leading-7 text-navy">{question.questionText}</h3>
+
+
+              {question.questionImage ? (
+                <Image
+                  src={question.questionImage}
+                  alt={`${question.id} map or reference image`}
+                  width={900}
+                  height={650}
+                  className="mt-4 h-auto w-full rounded-xl border object-contain"
+                />
+              ) : null}
 
               <div className="mt-4 grid gap-2">
                 {question.options.map((option, index) => (

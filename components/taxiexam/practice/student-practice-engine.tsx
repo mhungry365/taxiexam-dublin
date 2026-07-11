@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
@@ -107,6 +108,17 @@ export function StudentPracticeEngine({ moduleData }: Props) {
             </p>
 
             <h1 className="mt-3 text-2xl font-black leading-8 text-navy">{question.questionText}</h1>
+
+
+            {question.questionImage ? (
+              <Image
+                src={question.questionImage}
+                alt={`${question.id} map or reference image`}
+                width={900}
+                height={650}
+                className="mt-5 h-auto w-full rounded-xl border object-contain"
+              />
+            ) : null}
 
             <div className="mt-6 grid gap-3">
               {question.options.map((option, optionIndex) => {

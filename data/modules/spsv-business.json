@@ -1,0 +1,2468 @@
+{
+  "id": "spsv-business",
+  "title": "Learn SPSV Business lesson by lesson.",
+  "eyebrow": "SPSV Business module",
+  "description": "Study SPSV business, tax, safety, customer service, licensing and area knowledge in focused lessons before taking the full mixed test.",
+  "targetQuestionCount": 81,
+  "lessons": [
+    {
+      "id": "eco-driving-vehicle-operation",
+      "title": "Eco-Driving and Vehicle Operation",
+      "intro": "Fuel efficiency, vehicle checks, engine use, tyres, lights and permitted vehicle features.",
+      "memoryTrick": "Smooth, switched off, checked and roadworthy.",
+      "commonMistakes": [
+        "Leaving the engine or air conditioning running unnecessarily",
+        "Treating a vehicle defect as safe to ignore"
+      ],
+      "tags": [
+        "eco-driving",
+        "vehicle-operation"
+      ]
+    },
+    {
+      "id": "driver-health-fatigue-manual-handling",
+      "title": "Driver Health, Fatigue and Manual Handling",
+      "intro": "Tiredness, medication, working hours, lifting, crashes, phones and passenger seatbelts.",
+      "memoryTrick": "Rest, assess, lift close and never rush safety.",
+      "commonMistakes": [
+        "Using heat as a tiredness remedy",
+        "Moving injured people after a collision without necessity"
+      ],
+      "tags": [
+        "fatigue",
+        "health",
+        "manual-handling"
+      ]
+    },
+    {
+      "id": "tax-business-finance",
+      "title": "Tax, Business and Finance",
+      "intro": "Sole trader responsibilities, Revenue, Pay and File, expenses, marketing and banking.",
+      "memoryTrick": "Separate money, record income, file tax and keep affairs current.",
+      "commonMistakes": [
+        "Mixing personal and business finances",
+        "Confusing annual and occasional business expenses"
+      ],
+      "tags": [
+        "tax",
+        "finance",
+        "business"
+      ]
+    },
+    {
+      "id": "customer-service-professionalism",
+      "title": "Customer Service and Professionalism",
+      "intro": "Professional conduct, passenger communication, dress, lawful service and customer comfort.",
+      "memoryTrick": "Polite, lawful, clean and passenger-led.",
+      "commonMistakes": [
+        "Discussing politics or ignoring a passenger's preference",
+        "Breaking road rules to satisfy a customer"
+      ],
+      "tags": [
+        "customer-service",
+        "professionalism"
+      ]
+    },
+    {
+      "id": "security-legal-data-protection",
+      "title": "Security, Law and Data Protection",
+      "intro": "Personal safety, robbery prevention, cash handling, CCTV, data and legal penalties.",
+      "memoryTrick": "Small cash, locked car, protected data and lawful driving.",
+      "commonMistakes": [
+        "Displaying or discussing cash",
+        "Sharing customer information without permission"
+      ],
+      "tags": [
+        "security",
+        "law",
+        "data-protection"
+      ]
+    },
+    {
+      "id": "licensing-spsv-rules",
+      "title": "Licensing and SPSV Rules",
+      "intro": "Driver renewals, required equipment, operating areas, receipts, advertising and SPSV standards.",
+      "memoryTrick": "Licence valid, equipment ready, area rules followed.",
+      "commonMistakes": [
+        "Confusing driver and vehicle licence requirements",
+        "Assuming every pickup is allowed outside the licensed area"
+      ],
+      "tags": [
+        "licensing",
+        "spsv-rules"
+      ]
+    },
+    {
+      "id": "maps-area-knowledge",
+      "title": "Maps and Area Knowledge",
+      "intro": "Map colours, scales, routes, road types and grid references.",
+      "memoryTrick": "Road colour first, direction second, grid last.",
+      "commonMistakes": [
+        "Reading the wrong grid square",
+        "Confusing primary, secondary, regional and motorway colours"
+      ],
+      "tags": [
+        "maps",
+        "area-knowledge"
+      ]
+    },
+    {
+      "id": "final-mixed-spsv-business-test",
+      "title": "Final Mixed SPSV Business Test",
+      "intro": "All 81 SPSV Business questions mixed together.",
+      "memoryTrick": "Identify the topic before choosing the rule.",
+      "commonMistakes": [
+        "Answering too quickly when the topic changes",
+        "Using general driving knowledge instead of the SPSV-specific rule"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "BUSINESS-001",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 1,
+      "questionText": "Which of the following does NOT reduce fuel consumption?",
+      "type": "single",
+      "options": [
+        "Accelerating and slowing down smoothly",
+        "Driving in highest appropriate gear",
+        "Keeping Air Conditioning on",
+        "Turning off engine when standing in a queue"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-002",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 2,
+      "questionText": "What issue do prescription medicines often contribute to?",
+      "type": "single",
+      "options": [
+        "Increased energy",
+        "Longer driving shifts",
+        "Positive breathalyser readings",
+        "Tiredness"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-003",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 3,
+      "questionText": "What should drivers NOT do in the event of a crash?",
+      "type": "single",
+      "options": [
+        "Be aware of your own condition",
+        "Call for help",
+        "Move injured people",
+        "Report the collision"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-004",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 4,
+      "questionText": "Looking at the map provided, how would you get from Blanchardstown/Castleknock Station to St. Bridget's GAA Grounds?",
+      "type": "single",
+      "options": [
+        "Head southeast on Castleknock Road, take the second exit at the roundabout and continue southeast, take a left onto Auburn Avenue and head north, take the third exit at the next roundabout and head east untill you arrive at your destination",
+        "Head southeast on Castleknock Road, take the second exit at the roundabout and continue southeast, take a left onto Beechpark Avenue and continue north untill you arrive at your destination"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image1.png"
+    },
+    {
+      "id": "BUSINESS-005",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 5,
+      "questionText": "What is the penalty for a third time offence for using a phone within a 12 month period?",
+      "type": "single",
+      "options": [
+        "3 penalty points",
+        "6 penalty points",
+        "€2,000 and/or 3 months in prison",
+        "€500 fine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-006",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 6,
+      "questionText": "How often must the SPSV driver licence be renewed?",
+      "type": "single",
+      "options": [
+        "Annually",
+        "Every 2 years",
+        "Every 5 years",
+        "Only after an incident"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-007",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 7,
+      "questionText": "Which of the following are drivers NOT required to carry?",
+      "type": "single",
+      "options": [
+        "Advance-warning triangle",
+        "Fire extinguisher",
+        "First-aid kit",
+        "Phone chargers"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-008",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 8,
+      "questionText": "What is an inappropriate thing to say to a passenger? (multiple answers)",
+      "type": "multiple",
+      "options": [
+        "What political party do you support?",
+        "What's the craic?",
+        "How are you today?",
+        "Would you prefer to avoid a toll?"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-009",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 9,
+      "questionText": "Where do you go when you pass your SPSV test?",
+      "type": "single",
+      "options": [
+        "Local Garda Station",
+        "mytaxi Office",
+        "The NTA",
+        "The NDLS"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-010",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 10,
+      "questionText": "Looking at the map provided, in what grid reference would you find Castleknock College?",
+      "type": "single",
+      "options": [
+        "D1",
+        "E4",
+        "F3",
+        "F4"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image2.png"
+    },
+    {
+      "id": "BUSINESS-011",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 11,
+      "questionText": "The disadvantage of being a sole trader is?",
+      "type": "single",
+      "options": [
+        "Responsible for all the debts",
+        "Responsible for everybody else",
+        "You are in a partnership",
+        "You are intended to be in a group"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-012",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 12,
+      "questionText": "Under Revenue's Pay-and-File system, by which date must you file and pay tax each year?",
+      "type": "single",
+      "options": [
+        "1st December",
+        "31st December",
+        "31st October",
+        "Last Friday of December"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-013",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 13,
+      "questionText": "Which of the following is NOT required in an SPSV?",
+      "type": "single",
+      "options": [
+        "Fire extinguisher",
+        "Hi-vis jacket",
+        "Jump leads",
+        "Pen & Paper"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-014",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 14,
+      "questionText": "Looking at the map provided, in what grid reference would you find Tolka Valley Park?",
+      "type": "single",
+      "options": [
+        "D1",
+        "D3",
+        "E1",
+        "E2"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image3.png"
+    },
+    {
+      "id": "BUSINESS-015",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 15,
+      "questionText": "What should be tested regularly in an SPSV vehicle?",
+      "type": "single",
+      "options": [
+        "All answers are correct",
+        "Heating",
+        "Tyres threads, Lights and Brakes",
+        "Wheelchair ramps or lifts"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-016",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 16,
+      "questionText": "Which of the following will NOT help to avoid driver tiredness?",
+      "type": "single",
+      "options": [
+        "Adhering to SPSV working hours undertaking",
+        "Fresh air",
+        "Quick rest",
+        "Turning up heat in car"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-017",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 17,
+      "questionText": "When lifting heavy items how should you best reduce the risk of injuring yourself?",
+      "type": "single",
+      "options": [
+        "Carry the item above your head",
+        "Carry the item close to your body",
+        "Rest the item on your knee",
+        "Rest the item on your shoulder"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-018",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 18,
+      "questionText": "What colour are Regional Roads on a map?",
+      "type": "single",
+      "options": [
+        "Blue",
+        "Orange",
+        "White",
+        "Yellow"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-019",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 19,
+      "questionText": "Over three days what is the maximum number of hours you are allowed to operate your SPSV",
+      "type": "single",
+      "options": [
+        "33 hours",
+        "36 hours",
+        "40 hours",
+        "There is no limit"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-020",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 20,
+      "questionText": "What is required to register for tax?",
+      "type": "single",
+      "options": [
+        "A car",
+        "A contract of employment",
+        "An Irish passport",
+        "Personal Public Security Number (PPSN)"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-021",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 21,
+      "questionText": "Wheelchair accessible vehicles require written certification of what?",
+      "type": "single",
+      "options": [
+        "Anchor points and restraints",
+        "Certification for disabled passenger driver",
+        "Leg room",
+        "Luggage space"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-022",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 22,
+      "questionText": "Which of the following should an SPSV operator NOT offer?",
+      "type": "single",
+      "options": [
+        "Assistance with luggage",
+        "Door-to-door delivery",
+        "To break speed limits",
+        "Value for money"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-023",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 23,
+      "questionText": "What should you do to increase business?",
+      "type": "single",
+      "options": [
+        "Don't reply if your passenger asks for a hotel recommendation",
+        "Give out business cards",
+        "Play the radio loud",
+        "Put up inappropriate signage"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-024",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 24,
+      "questionText": "What should an SPSV taxi driver do with their engine when stopped on a rank?",
+      "type": "single",
+      "options": [
+        "Turn it off",
+        "Keep the engine running",
+        "Put the car into neutral"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-025",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 25,
+      "questionText": "Where do you store your safety equipment?",
+      "type": "single",
+      "options": [
+        "In your car boot",
+        "On the back seat",
+        "Under the front passenger seat",
+        "In the globe box compartment"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-026",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 26,
+      "questionText": "The Gardaí stop your vehicle with a broken brake light. What is the outcome?",
+      "type": "single",
+      "options": [
+        "The vehicle is unsafe and must be taken off the road immediately",
+        "You are not safe to operate and will be ordered to fix the light",
+        "You are safe to operate the vehicle but must repair the light",
+        "You must cease to operate and report to a Garda station when the vehicle is repaired"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-027",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 27,
+      "questionText": "What should you do if a customer insists on you breaking the speed limit?",
+      "type": "single",
+      "options": [
+        "Allow for customers' request",
+        "Allow for customers' request if the road is clear",
+        "Explain that it is against the law",
+        "Pass speed limit when it is safe to do so"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-028",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 28,
+      "questionText": "SPSV driver should NOT talk:",
+      "type": "single",
+      "options": [
+        "Courteously",
+        "Friendly",
+        "Helpfully",
+        "Politically"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-029",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 29,
+      "questionText": "Looking at the map provided, in what grid reference would you find the Kilbride Shopping Centre?",
+      "type": "single",
+      "options": [
+        "A1",
+        "C1",
+        "C2",
+        "D2"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image4.png"
+    },
+    {
+      "id": "BUSINESS-030",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 30,
+      "questionText": "Can you pick up a passenger in an area you are not licensed for?",
+      "type": "single",
+      "options": [
+        "Yes, if it is a pre-booking",
+        "Never",
+        "Yes, at any time",
+        "Only at night time"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-031",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 31,
+      "questionText": "Who is responsible for ensuring a 16 year old wears a seatbelt in an SPSV vehicle?",
+      "type": "single",
+      "options": [
+        "If sitting in the front, the driver",
+        "The 16 year old",
+        "The driver",
+        "The guardian"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-032",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 32,
+      "questionText": "If when travelling along the Stillorgan Road from Stillorgan to Blackrock, the Mount Merrion Avenue is closed, which route would you take?",
+      "type": "single",
+      "options": [
+        "Proceed along Stillorgan Road, take right on to Booterstown Avenue. Take a right onto Cross Avenue, then a left onto Merrion Road.",
+        "Proceed along Stillorgan Road, take right on to Booterstown Avenue. Turn right onto the Rock road.",
+        "Proceed along Stillorgan Road, take right on to Woodbine Avenue. Turn right onto the Rock Road."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image5.png"
+    },
+    {
+      "id": "BUSINESS-033",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 33,
+      "questionText": "What three steps do An Garda Síochána recommend for your own personal safety? (select 3 answers)",
+      "type": "multiple",
+      "options": [
+        "Carry a small amount of cash and take care in isolated areas",
+        "Don't engage in conversation and avoid eye contact",
+        "Don't leave you car in isolated areas and always lock your car",
+        "Reverse into a cul de sac and make eye contact and interact"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-034",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 34,
+      "questionText": "After how many complaints about a driver's area knowledge will the driver be required to pass another Area Knowledge Test to renew the licence?",
+      "type": "single",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-035",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 35,
+      "questionText": "If inspected and your tyres have a tread depth of 1.4mm what would happen?",
+      "type": "single",
+      "options": [
+        "1.4mm thread depth is acceptable",
+        "You are not permitted to drive on public roads and a fine may be issued",
+        "You can drive but your tyres need to be replaced",
+        "You will be cautioned"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-036",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 36,
+      "questionText": "What colour are motorways on a map?",
+      "type": "single",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-037",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 37,
+      "questionText": "When loading luggage in the dark, what should drivers wear?",
+      "type": "single",
+      "options": [
+        "high visibility jacket",
+        "head torch",
+        "protective helmet",
+        "steel cap boots"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-038",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 38,
+      "questionText": "A vehicle that is licensed as an SPSV but is not used solely for that purpose is required to pay the full rate of motor tax.",
+      "type": "single",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-039",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 39,
+      "questionText": "What do you do when a passenger with a Guide dog approaches?",
+      "type": "single",
+      "options": [
+        "Ask them if they want help but allow them to manage their dog",
+        "Rush to greet the dog",
+        "Refuse to serve the passenger",
+        "Immediately take the arm of the passenger to guide them into the car"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-040",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 40,
+      "questionText": "In what way should drivers dress?",
+      "type": "single",
+      "options": [
+        "Gym gear",
+        "Smart, clean and comfortable",
+        "Strictly in suit",
+        "Whatever is comforable"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-041",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 41,
+      "questionText": "What are two things you need when applying for the SPSV licence?",
+      "type": "multiple",
+      "options": [
+        "Tax Clearance Certificate",
+        "Vehicle Insurance",
+        "NCT Certificate",
+        "2 Identical photographs"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-042",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 42,
+      "questionText": "In what colour are Pedestrian Streets represented on a map?",
+      "type": "single",
+      "options": [
+        "Blue",
+        "Pink",
+        "White",
+        "Yellow"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-043",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 43,
+      "questionText": "Which body handles breaches of road legislation?",
+      "type": "single",
+      "options": [
+        "An Garda Siochana",
+        "Health Service Executive",
+        "National Transport Authority",
+        "Road Safety Authority"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-044",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 44,
+      "questionText": "What are drivers advised to do after a road accident?",
+      "type": "single",
+      "options": [
+        "Create story favourable to them",
+        "Drive away",
+        "Forget it and get back to work",
+        "Record a diary entry about the incident"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-045",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 45,
+      "questionText": "Which is not acceptable when providing good customer service?",
+      "type": "single",
+      "options": [
+        "Driving above the speed limit to get the customer there on time",
+        "Asking whether the passenger would like a route to avoid tolls",
+        "Greeting the passenger as they enter the vehicle",
+        "Engaging in conversation with a passenger"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-046",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 46,
+      "questionText": "Which of the following is permitted in an SPSV?",
+      "type": "single",
+      "options": [
+        "Convertible roof",
+        "Dark tinted windows",
+        "Manufacturer fitted sunroof",
+        "Side facing seats"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-047",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 47,
+      "questionText": "As a customer gets into your vehicle at a rank, another customer gets in to a different taxi at the same rank. Both say they are going to the same location. What should you do?",
+      "type": "single",
+      "options": [
+        "Negotiate a split fare.",
+        "Offer to take the other customer",
+        "Proceed with customer",
+        "Tell customer to get in to other taxi"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-048",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 48,
+      "questionText": "What steps do an Garda Síochána recommend to avoid robbery? (Select 3 correct answers)",
+      "type": "multiple",
+      "options": [
+        "Avoid carryting large amounts of cash",
+        "Don't display valuables",
+        "Don't inform customers how much cash you are carrying",
+        "Tell customers how well your shift has been going"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-049",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 49,
+      "questionText": "May a driver smoke in an SPSV when they are not operating?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-050",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 50,
+      "questionText": "As a sole trader, are you required to pay income tax?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-051",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 51,
+      "questionText": "What steps do An Garda Síochána recommend for driver safety?",
+      "type": "single",
+      "options": [
+        "All of the above",
+        "Drive forward in to cul de sacs",
+        "Hold small amounts of cash",
+        "Park in isolated areas"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-052",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 52,
+      "questionText": "Which of the following is good business practice?",
+      "type": "single",
+      "options": [
+        "Having only one bank account",
+        "Having two banks accounts, one for personal finance and one for business finance.",
+        "Not keeping a record of daily income",
+        "Taking cash fares only"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-053",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 53,
+      "questionText": "Which of the following is an annual business expense?",
+      "type": "single",
+      "options": [
+        "Driver licence renewal fee",
+        "Roof sign purchase",
+        "Suitability Inspection fee",
+        "Vehicle licence renewal assessment fee"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-054",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 54,
+      "questionText": "In order to obtain or renew any SPSV driver licence, what must be proven?",
+      "type": "single",
+      "options": [
+        "At least 100 hours of work",
+        "At least 200 hours of work",
+        "Car less than 10 years old",
+        "Tax affairs are up to date"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-055",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 55,
+      "questionText": "Which of the following statements is false?",
+      "type": "single",
+      "options": [
+        "Drivers can be prosecuted for dangerous/careless driving when using hands-free kit",
+        "Drivers WON'T be prosecuted for careless driving when using hands-free kit",
+        "Hands-free kits can cause danger when on the road",
+        "Hands-free kits for phones are completely safe"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-056",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 56,
+      "questionText": "Which authority is best to contact for information on use of CCTV footage from your SPSV vehicle?",
+      "type": "single",
+      "options": [
+        "An Garda Siochana",
+        "Data Protection Commissioner",
+        "NTA",
+        "RSA"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-057",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 57,
+      "questionText": "When is it lawful to hold a phone when driving?",
+      "type": "single",
+      "options": [
+        "Never",
+        "To make emergency calls to 999 or 112",
+        "When looking for an address",
+        "When on the phone to a customer"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-058",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 58,
+      "questionText": "How is a National Secondary Road represented on a map?",
+      "type": "single",
+      "options": [
+        "Blue & white line",
+        "Green & white line",
+        "Solid light blue line",
+        "Solid orange line"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-059",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 59,
+      "questionText": "Looking at the map provided, how would you get from St. Bridget's Church to River Road Cottages?",
+      "type": "single",
+      "options": [
+        "Head southeast on Castleknock Road, take a left onto Auburn Avenue and continue north, take the second exit at the roundabout and contine north, take the second exit on the Navan Road roundabout and continue north onto New River Road, take a right and continue eat untill you arrive at your destination.",
+        "Head southeast on Castleknock Road, take a left onto Auburn Avenue and continue north, take the second exit at the roundabout and contine north, take the third exit at the Navan Road roundabout and continue east,"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image6.png"
+    },
+    {
+      "id": "BUSINESS-060",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 60,
+      "questionText": "Which of the following is the most regular expense?",
+      "type": "single",
+      "options": [
+        "Fuel",
+        "License Renewal",
+        "Repairs",
+        "Tyre Replacement"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-061",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 61,
+      "questionText": "On a map with a scale of 1:450000, a distance measured on the map is:",
+      "type": "single",
+      "options": [
+        "4,500 times smaller than it is on the ground",
+        "45,000 times smaller than it is on the ground",
+        "450 times smaller than it is on the ground",
+        "450,000 times smaller than it is on the ground"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-062",
+      "module": "spsv-business",
+      "lessonId": "driver-health-fatigue-manual-handling",
+      "questionNumber": 62,
+      "questionText": "Are SPSV drivers required to provide child car seats?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "driver-health-fatigue-manual-handling"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-063",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 63,
+      "questionText": "Looking at the map provided, which road does NOT intersect Castleknock Road?",
+      "type": "single",
+      "options": [
+        "Auburn Avenue",
+        "Beechpark Avenue",
+        "Navan Road",
+        "Park Avenue"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image7.png"
+    },
+    {
+      "id": "BUSINESS-064",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 64,
+      "questionText": "Who helps you with your Tax Affairs",
+      "type": "single",
+      "options": [
+        "Accountant",
+        "Solicitor",
+        "Commission for Taxi Registration",
+        "Tax Office"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-065",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 65,
+      "questionText": "Which of the following is a good way to develop a regular customer list?",
+      "type": "single",
+      "options": [
+        "Allow for all requests, even those against the law",
+        "Arranging to collect passengers from wherever you dropped them",
+        "Withold contact details from customers"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-066",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 66,
+      "questionText": "As a self employed SPSV driver, what system is used for paying income tax?",
+      "type": "single",
+      "options": [
+        "Automatic deduction system",
+        "Not required to pay income tax",
+        "Pay as you earn (PAYE)",
+        "Self-assessment system"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-067",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 67,
+      "questionText": "How can the risk of fare evasion be reduced?",
+      "type": "single",
+      "options": [
+        "All of the above",
+        "Ask for a deposit",
+        "Ask for an exact address",
+        "Settle the fare inside the vehicle"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-068",
+      "module": "spsv-business",
+      "lessonId": "security-legal-data-protection",
+      "questionNumber": 68,
+      "questionText": "Can drivers pass on a customers contact details to a third party?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "security-legal-data-protection"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-069",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 69,
+      "questionText": "Looking at the map provided, in what grid reference would you find Ck. Celtic Pitches?",
+      "type": "single",
+      "options": [
+        "D3",
+        "D4",
+        "E3",
+        "F4"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11",
+      "questionImage": "/questions/spsv-business/image8.png"
+    },
+    {
+      "id": "BUSINESS-070",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 70,
+      "questionText": "What should you do if a pre-book customer asks to carry more passengers than your vehicle licence allows?",
+      "type": "single",
+      "options": [
+        "Advise to get a second SPSV",
+        "Allow but drive slowly",
+        "Allow for the customers request",
+        "Immediately drive away"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-071",
+      "module": "spsv-business",
+      "lessonId": "tax-business-finance",
+      "questionNumber": 71,
+      "questionText": "Which of the following business models involves the least amount of documentation for a SPSV operator?",
+      "type": "single",
+      "options": [
+        "Partnership",
+        "Private Limited company",
+        "Public company",
+        "Sole Trader"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "tax-business-finance"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-072",
+      "module": "spsv-business",
+      "lessonId": "maps-area-knowledge",
+      "questionNumber": 72,
+      "questionText": "How is a National Primary Road represented on a map?",
+      "type": "single",
+      "options": [
+        "Blue line",
+        "Orange line",
+        "Solid green line",
+        "White & green line"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 35,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "maps-area-knowledge"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-073",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 73,
+      "questionText": "Does a receipt printer need to be connected to the taximeter?",
+      "type": "single",
+      "options": [
+        "It must be connected",
+        "No it does not need be connected"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-074",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 74,
+      "questionText": "Drivers may ask passengers to leave the vehicle for which reason:",
+      "type": "single",
+      "options": [
+        "Journey too short",
+        "Language barrier",
+        "Offensive behaviour",
+        "Too much traffic"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-075",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 75,
+      "questionText": "What aid would you use for a person hard of hearing?",
+      "type": "single",
+      "options": [
+        "Note pad and pen",
+        "Megaphone",
+        "Google Translate",
+        "Message cards"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-076",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 76,
+      "questionText": "Which of the following is NOT appropriate to say to a passenger?",
+      "type": "single",
+      "options": [
+        "Bad weather isn't it",
+        "How was your evening?",
+        "What's the craic?",
+        "Where do you want to go?"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-077",
+      "module": "spsv-business",
+      "lessonId": "eco-driving-vehicle-operation",
+      "questionNumber": 77,
+      "questionText": "Can SPSV drivers get a reduced motor tax?",
+      "type": "single",
+      "options": [
+        "Depends on the vehicle",
+        "No, all vehicles must pay full Motor Tax",
+        "Yes, always",
+        "Yes, if the vehicle is only used for SPSV use"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "eco-driving-vehicle-operation"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-078",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 78,
+      "questionText": "What is NOT required by wheelchair accessible vehicles?",
+      "type": "single",
+      "options": [
+        "Anchor points and restraints",
+        "Certified disabled passenger approved driver",
+        "Visible accessibility symbol",
+        "Wheelchair ramp/lift"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-079",
+      "module": "spsv-business",
+      "lessonId": "licensing-spsv-rules",
+      "questionNumber": 79,
+      "questionText": "Use of the word 'taxi' in advertising is legally restricted to:",
+      "type": "single",
+      "options": [
+        "All 6 SPSV categories",
+        "Taxis and Hackneys",
+        "Taxis and Wheelchair Accessible Taxis",
+        "Taxis only"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "licensing-spsv-rules"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-080",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 80,
+      "questionText": "If a passenger chooses not to speak, what do you do?",
+      "type": "single",
+      "options": [
+        "Respect their decision",
+        "Ask what's the matter with them",
+        "Talk to them anyways",
+        "Go on your phone"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    },
+    {
+      "id": "BUSINESS-081",
+      "module": "spsv-business",
+      "lessonId": "customer-service-professionalism",
+      "questionNumber": 81,
+      "questionText": "What can you do to ensure customer comfort in your vehicle?",
+      "type": "single",
+      "options": [
+        "Brake suddenly",
+        "Drive quickly",
+        "Drive smoothly and brake gently",
+        "Keep windows down to keep the car cool"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 25,
+      "explanation": "Recorded from the uploaded SPSV Business question bank. The highlighted answer in the source document is used as the correct answer.",
+      "memoryTip": "Identify the lesson topic first, then apply the SPSV-specific rule.",
+      "commonMistake": "Do not guess from general driving knowledge when the question asks for an SPSV business rule.",
+      "tags": [
+        "spsv-business",
+        "customer-service-professionalism"
+      ],
+      "source": "FREE_NOW",
+      "version": 1,
+      "lastVerified": "2026-07-11"
+    }
+  ]
+}

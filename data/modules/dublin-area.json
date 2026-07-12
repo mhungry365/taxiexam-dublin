@@ -1,0 +1,3131 @@
+{
+  "id": "dublin-area",
+  "title": "Learn Dublin Area Knowledge lesson by lesson.",
+  "eyebrow": "Dublin Area module",
+  "description": "The first 100 of 413 Dublin Area questions, structured by question pattern and geography to improve recall.",
+  "targetQuestionCount": 413,
+  "loadedQuestionCount": 100,
+  "batch": "1-100",
+  "lessons": [
+    {
+      "id": "one-way-streets",
+      "title": "One-Way Streets",
+      "intro": "Learn one-way directions as fixed start-to-end street pairs.",
+      "memoryTrick": "Say every answer as an arrow: FROM → TO. Reverse order means wrong.",
+      "commonMistakes": [
+        "Remembering both street names but reversing the direction",
+        "Choosing the street pair from the map without checking the one-way direction"
+      ],
+      "tags": [
+        "one-way",
+        "street-direction"
+      ]
+    },
+    {
+      "id": "roads-routes-connections",
+      "title": "Roads, Routes and Connections",
+      "intro": "Study which areas roads connect, major routes, national roads and crossings.",
+      "memoryTrick": "Build a chain: AREA → ROAD → AREA. For national routes, remember the road number as the middle link.",
+      "commonMistakes": [
+        "Choosing two nearby areas that the road does not directly connect",
+        "Confusing a local road with the main national route"
+      ],
+      "tags": [
+        "routes",
+        "connections",
+        "national-roads"
+      ]
+    },
+    {
+      "id": "institutions-services-venues",
+      "title": "Hotels, Hospitals, Colleges and Major Venues",
+      "intro": "Group practical taxi destinations by venue type and the street or district where each is located.",
+      "memoryTrick": "Use destination pairs: VENUE = STREET/AREA. Picture the drop-off point, not just the wider district.",
+      "commonMistakes": [
+        "Selecting a nearby road instead of the venue's actual address",
+        "Confusing similarly named schools, hospitals or hotels"
+      ],
+      "tags": [
+        "hotels",
+        "hospitals",
+        "education",
+        "sports"
+      ]
+    },
+    {
+      "id": "landmarks-culture-entertainment",
+      "title": "Landmarks, Churches, Parks and Entertainment",
+      "intro": "Memorise cultural venues, pubs, churches, parks, theatres and civic landmarks.",
+      "memoryTrick": "Attach each landmark to one anchor street and one nearby famous place.",
+      "commonMistakes": [
+        "Choosing a nearby landmark's street",
+        "Confusing venue names with the district they are in"
+      ],
+      "tags": [
+        "landmarks",
+        "culture",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "north-dublin",
+      "title": "North Dublin Area Knowledge",
+      "intro": "Learn Northside districts, connecting roads and key destinations together as geographic clusters.",
+      "memoryTrick": "Move outward from the city: Marino/Clontarf → Raheny/Killester → Howth/Baldoyle/Portmarnock.",
+      "commonMistakes": [
+        "Mixing neighbouring Northside districts",
+        "Confusing the road serving a venue with the wider area"
+      ],
+      "tags": [
+        "northside",
+        "districts"
+      ]
+    },
+    {
+      "id": "south-west-dublin",
+      "title": "South and West Dublin Area Knowledge",
+      "intro": "Study Southside and West Dublin roads, suburbs, institutions and routes in connected groups.",
+      "memoryTrick": "Use corridor memory: coast, N11 corridor, south-west suburbs, then N4/Lucan corridor.",
+      "commonMistakes": [
+        "Mixing Blackrock, Stillorgan and Dundrum roads",
+        "Confusing south-city streets with suburban roads"
+      ],
+      "tags": [
+        "southside",
+        "west-dublin",
+        "districts"
+      ]
+    },
+    {
+      "id": "areas-boundaries-location-logic",
+      "title": "Areas, Boundaries and Location Logic",
+      "intro": "Practise which areas surround, include or exclude a location, plus general street-location questions.",
+      "memoryTrick": "Use elimination: identify three places that clearly fit the same geographic cluster; the outsider is the answer.",
+      "commonMistakes": [
+        "Choosing the familiar place rather than checking geographic fit",
+        "Ignoring words such as NOT, closest, mostly or directly"
+      ],
+      "tags": [
+        "areas",
+        "boundaries",
+        "location"
+      ]
+    },
+    {
+      "id": "final-mixed-dublin-area-test",
+      "title": "Final Mixed Dublin Area Test",
+      "intro": "All currently loaded Dublin Area questions mixed together.",
+      "memoryTrick": "First identify the question pattern: direction, connection, venue, area or route.",
+      "commonMistakes": [
+        "Answering before identifying the question pattern",
+        "Treating nearby locations as exact addresses"
+      ],
+      "tags": [
+        "mixed-test"
+      ],
+      "isFinalTest": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "DUBLIN-001",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 1,
+      "questionText": "What two areas does the Rock Road connect?",
+      "type": "single",
+      "options": [
+        "Blackrock and Merrion",
+        "Dun Laoghaire and Blackrock",
+        "Booterstown and Dun Laoghaire",
+        "Blackrock and Stillorgan"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-002",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 2,
+      "questionText": "Saint Patricks Close runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Patrick St. to Kevin St. Upper",
+        "Bride St. to Hanover Ln.",
+        "Patrick St. to Hanover St.",
+        "Hanover Ln to Patrick St."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-003",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 3,
+      "questionText": "Where is Hughes pub?",
+      "type": "single",
+      "options": [
+        "Halston St",
+        "Georges hill selecte",
+        "Mary St Little",
+        "Chancery St"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-004",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 4,
+      "questionText": "Poolbeg Street runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Tara St. to Prince's St.",
+        "Luke St. to Hawkins St.",
+        "Prince's St. to Tara St.",
+        "Corn Exchange PI to D'Olier PI."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-005",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 5,
+      "questionText": "On what street is the White Sands Hotel located?",
+      "type": "single",
+      "options": [
+        "Wendell Avenue",
+        "Portmarnock Crescent",
+        "Coast Road / Portmarnock",
+        "Carrickhill Rise"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-006",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 6,
+      "questionText": "In what area is Royal Canal Park?",
+      "type": "single",
+      "options": [
+        "Blanchardstown",
+        "Ashtown",
+        "Beaumont",
+        "Drimnagh"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-007",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 7,
+      "questionText": "The Pigs Ear is on which street?",
+      "type": "single",
+      "options": [
+        "A Hume St.",
+        "Nassau St.",
+        "Fitzwilliam Ln",
+        "Molesworth St"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-008",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 8,
+      "questionText": "Killarney Street runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Buckingham Street Lower to Portland Row",
+        "Foley Street to Amiens Street",
+        "Portland Row to Buckingham Street Lower",
+        "Seville Place to Killarney Lane"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-009",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 9,
+      "questionText": "Abbey Street Lower runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Marlborough Street to Gardiner street",
+        "Gardiner Street to Marlborough Street",
+        "Gardiner Street Lower to O'Connell Street",
+        "O'Connell Street to Gardiner Street Lower"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-010",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 10,
+      "questionText": "Where is the Gaiety School of Acting?",
+      "type": "single",
+      "options": [
+        "Parliament Street",
+        "Dame Street",
+        "Essex Street West",
+        "St. Stephen's Green"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-011",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 11,
+      "questionText": "What is the closest dart station to Casino at Marino?",
+      "type": "single",
+      "options": [
+        "Raheny",
+        "Killester",
+        "Harmonstown",
+        "Clontarf"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-012",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 12,
+      "questionText": "What two areas does the Coolmine Road run through?",
+      "type": "single",
+      "options": [
+        "Blanchardstown and Swords",
+        "Coolmine and Blanchardstown",
+        "Carpenterstown and Clonsilla",
+        "Coolmine and Ashtown"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-013",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 13,
+      "questionText": "On what street is The Merrion Hotel located?",
+      "type": "single",
+      "options": [
+        "Merrion Street Upper",
+        "Northumberland Road",
+        "Adelaide Road",
+        "Golden Lane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-014",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 14,
+      "questionText": "Grange Rd. connect wich two areas?",
+      "type": "single",
+      "options": [
+        "Sutton & Baldoyle",
+        "Howth & Sutton",
+        "Portmarnock & Baldoyle",
+        "Donghamede & Baldoyle"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-015",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 15,
+      "questionText": "Drury Street runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Clarendon Street to South William Street",
+        "College Green to Exchequer Street",
+        "Stephen Street Lower to Exchequer Street",
+        "Stephen Street to Wicklow Street"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-016",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 16,
+      "questionText": "Where is the fire station in Dolphin's Barn situated?",
+      "type": "single",
+      "options": [
+        "South Circular Road",
+        "Dolphin Road",
+        "Parnell Road",
+        "Herberton Road"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-017",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 17,
+      "questionText": "On what road is Grange Golf Club found?",
+      "type": "single",
+      "options": [
+        "Stocking Lane",
+        "Whitechurch Road iv 4",
+        "Leopardstown Road",
+        "Malahide Road"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-018",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 18,
+      "questionText": "Where is All Hallows College?",
+      "type": "single",
+      "options": [
+        "Home Farm Road",
+        "Philipsburgh Avenue",
+        "Ballymun Road, Ballymun",
+        "Grace Park Road, Drumcondra"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-019",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 19,
+      "questionText": "Greek Street runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Beresford Street to Chancery Place",
+        "Beresford Street to Canal Street West",
+        "Bridge Street to Beresford Street",
+        "Chancery Place to Beresford Street"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-020",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 20,
+      "questionText": "What road is the Beacon Hospital on?",
+      "type": "single",
+      "options": [
+        "Carmanhall Road",
+        "Bracken Road",
+        "Kilmacud Road Upper",
+        "Benildus Avenue"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-021",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 21,
+      "questionText": "Off which road is the Omni Shopping Centre located?",
+      "type": "single",
+      "options": [
+        "Santry Avenue",
+        "Ballymun Road",
+        "Swords Road",
+        "Drumcondra Road"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-022",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 22,
+      "questionText": "What route would you taking if travelling from Marino to Ballymun?",
+      "type": "single",
+      "options": [
+        "N1/R132",
+        "M1",
+        "N11",
+        "N2"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-023",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 23,
+      "questionText": "River Road joins which two areas?",
+      "type": "single",
+      "options": [
+        "Blanchardstown and Finglas West",
+        "Finglas West and Glasnevin",
+        "Glasnevin and Phibsborough",
+        "Finglas East and Cabra"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-024",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 24,
+      "questionText": "Where is the National Hockey Stadium located?",
+      "type": "single",
+      "options": [
+        "Nutley Lane",
+        "DCU",
+        "Grange Road",
+        "UCD"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-025",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 25,
+      "questionText": "On what street is Smurfit Business School located?",
+      "type": "single",
+      "options": [
+        "Grove Avenue",
+        "Stillorgan Park Road",
+        "Frascati Road",
+        "Carysfort Avenue"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-026",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 26,
+      "questionText": "Where is the Academy venue situated?",
+      "type": "single",
+      "options": [
+        "Henry Street",
+        "O'Connell Street",
+        "Middle Abbey Street",
+        "Parnell Street"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-027",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 27,
+      "questionText": "On which street is St. Teresa’s Church situated?",
+      "type": "single",
+      "options": [
+        "Clarendon Street",
+        "South William Street",
+        "Chatham Street",
+        "Wicklow Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-028",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 28,
+      "questionText": "What roads cross over the Grand Canal?",
+      "type": "single",
+      "options": [
+        "Leeson Street, Percy Place and Baggot Street",
+        "Leeson Street, Baggot Street and South Lotts Road",
+        "Leeson Street, Northumberland Road and Baggot Street",
+        "Northumberland Road, Baggot Street and Mount Street Upper"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-029",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 29,
+      "questionText": "On which street is St. Ann’s Church situated?",
+      "type": "single",
+      "options": [
+        "Dawson Street",
+        "St. Stephen's Green",
+        "Frederick Street South",
+        "D | Molesworth Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-030",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 30,
+      "questionText": "On what street is The Croke Park Hotel located?",
+      "type": "single",
+      "options": [
+        "Jones's Road",
+        "North Circular Road",
+        "Westmoreland Street",
+        "Ballybough Road"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-031",
+      "module": "dublin-area",
+      "lessonId": "south-west-dublin",
+      "questionNumber": 31,
+      "questionText": "Which area does NOT surround Kilmainham?",
+      "type": "single",
+      "options": [
+        "Bluebell",
+        "Islandbridge",
+        "Dolphin's Barn",
+        "Inchicore"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer along the correct south or west transport corridor.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "south-west-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-032",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 32,
+      "questionText": "What area does the Newtownpark Avenue not run through?",
+      "type": "single",
+      "options": [
+        "Dundrum",
+        "Annaville Terrace",
+        "S | Fluerville",
+        "D Rowanbyrne"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-033",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 33,
+      "questionText": "Engine Alley runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Meath St. to Swift Alley",
+        "Carman's Hall to Hanover St.",
+        "C | Meath St. to Ash St.",
+        "Dame St. to Ashton Quay"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-034",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 34,
+      "questionText": "The entrance to Mount Jerome Cemetery is located on what street?",
+      "type": "single",
+      "options": [
+        "Harold's Cross Road",
+        "Merrion Square",
+        "Church Street",
+        "Mount Venus Road"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-035",
+      "module": "dublin-area",
+      "lessonId": "south-west-dublin",
+      "questionNumber": 35,
+      "questionText": "In what area is Lansdowne Valley Pitch and Putt?",
+      "type": "single",
+      "options": [
+        "Ballymount",
+        "Kimmage",
+        "Dolphin's Barn",
+        "Drimnagh Vv"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer along the correct south or west transport corridor.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "south-west-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-036",
+      "module": "dublin-area",
+      "lessonId": "south-west-dublin",
+      "questionNumber": 36,
+      "questionText": "The Sweepstakes Apartments are situated where?",
+      "type": "single",
+      "options": [
+        "Donnybrook",
+        "Ballsbridge",
+        "IFSC",
+        "Blackrock"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer along the correct south or west transport corridor.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "south-west-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-037",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 37,
+      "questionText": "Ballyboden Road connects what two areas?",
+      "type": "single",
+      "options": [
+        "Ballyboden & Templelogue",
+        "Ballyboden & Balinteer",
+        "Ballyboden & Knocklyon",
+        "Ballyboden & Rathfarnham"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-038",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 38,
+      "questionText": "On which road is Farrier & Draper?",
+      "type": "single",
+      "options": [
+        "South Anne Street",
+        "Leeson Street",
+        "Exchequer Street",
+        "South William Street"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-039",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 39,
+      "questionText": "Which of these roads are NOT directly accessible by Ranelagh Road?",
+      "type": "single",
+      "options": [
+        "Chelmsford Road",
+        "Northbrook Road",
+        "Dartry Road",
+        "Dartmouth Road"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-040",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 40,
+      "questionText": "Where is the Grand Hotel located?",
+      "type": "single",
+      "options": [
+        "Grove Road, Malahide rv 4",
+        "Strand Road, Portmarnock",
+        "Warrenhouse Road, Sutton",
+        "Thornmanby Road, Howth"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-041",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 41,
+      "questionText": "Which of the following streets is NOT connected to Dame Street?",
+      "type": "single",
+      "options": [
+        "Westmoreland Street",
+        "Parliament Street",
+        "South Great George's Street",
+        "College Green"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-042",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 42,
+      "questionText": "Where is the Lighthouse Cinema?",
+      "type": "single",
+      "options": [
+        "Bow Street",
+        "Market St. S",
+        "Haymarket",
+        "Queen Street"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-043",
+      "module": "dublin-area",
+      "lessonId": "south-west-dublin",
+      "questionNumber": 43,
+      "questionText": "What areas are either side of Kilmacud?",
+      "type": "single",
+      "options": [
+        "Goatstown and Sandyford",
+        "Dundrum and Belfield",
+        "Mount Merrion and Goatstown",
+        "Leopardstown and Dundrum"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer along the correct south or west transport corridor.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "south-west-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-044",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 44,
+      "questionText": "Dundrum Shopping Centre is situated between which two Luas stops?",
+      "type": "single",
+      "options": [
+        "Windy Arbour and Dundrum",
+        "Stillorgan and Sandyford",
+        "c Stillorgan and Kilmacud",
+        "Dundrum and Ballaly"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-045",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 45,
+      "questionText": "On what street do you find The Bailey bar?",
+      "type": "single",
+      "options": [
+        "Grafton Street",
+        "Gi Clarendon Street",
+        "Duke Street",
+        "South Anne Street"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-046",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 46,
+      "questionText": "On what street is Barry's Hotel?",
+      "type": "single",
+      "options": [
+        "North Circular Road",
+        "Great Denmark Street",
+        "Gardiner Street",
+        "Frederick Street North"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-047",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 47,
+      "questionText": "Where is the Generator Hostel situated?",
+      "type": "single",
+      "options": [
+        "Temple Bar",
+        "Stoneybatter",
+        "Smithfield Square",
+        "Capel Street"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-048",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 48,
+      "questionText": "Which of these roads is Dundrum Rd not connected to?",
+      "type": "single",
+      "options": [
+        "Drummartin Link Road",
+        "Bird Ave",
+        "Milltown Rd",
+        "Frankfort Park"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-049",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 49,
+      "questionText": "Where is the People's Park?",
+      "type": "single",
+      "options": [
+        "Dalkey",
+        "Blackrock",
+        "Dun Laoghaire",
+        "Stillorgan"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-050",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 50,
+      "questionText": "On what road is Finglas Swimming Pool?",
+      "type": "single",
+      "options": [
+        "Mellowes Road",
+        "Blackditch Road",
+        "Chapelizod Road",
+        "Sean MacDermott Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-051",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 51,
+      "questionText": "Snugbourough road connects which two areas?",
+      "type": "single",
+      "options": [
+        "Clonsilla & Ongar",
+        "Blanchardstown & Ballycoolen",
+        "Blanchadstown & Cabra",
+        "Cabra & Clonsilla"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-052",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 52,
+      "questionText": "From the Mater Private to Hermitage Medical, using the quays route what would be the best option?",
+      "type": "single",
+      "options": [
+        "Ormond Quay, Victoria Quay, N4",
+        "City Quay,The Liberties, Inchicore",
+        "Victoria Quay, Kilmainham, N4 Sv",
+        "Victoria Quay, Inchicore, N4"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-053",
+      "module": "dublin-area",
+      "lessonId": "south-west-dublin",
+      "questionNumber": 53,
+      "questionText": "What National Road will take you from the City Centre to Lucan?",
+      "type": "single",
+      "options": [
+        "na",
+        "N7",
+        "N4 Sv",
+        "N3"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer along the correct south or west transport corridor.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "south-west-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-054",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 54,
+      "questionText": "What road do you take if travelling from Killiney Hill to Dalkey?",
+      "type": "single",
+      "options": [
+        "Corrig Road",
+        "Dalkey Avenue",
+        "Tivoli Road",
+        "Pearse Street"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-055",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 55,
+      "questionText": "East Essex St. runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Parliament St. To Eustace St.",
+        "Crane Ln. to Temple Ln",
+        "Dame St. to Parliment St.",
+        "Ashton Quay to Parliament St."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-056",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 56,
+      "questionText": "Where does Parnell Street start and end?",
+      "type": "single",
+      "options": [
+        "Gardiner Street to Capel Street",
+        "Gardiner Street to Jervis Street",
+        "Capel Street to O'Connell Street",
+        "Gardiner Street to O'Connell Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-057",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 57,
+      "questionText": "On what street is the Mercantile Hotel?",
+      "type": "single",
+      "options": [
+        "Dame Street",
+        "Exchequer Street",
+        "College Green",
+        "South Great George's Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-058",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 58,
+      "questionText": "Where are the National Botanic Gardens located?",
+      "type": "single",
+      "options": [
+        "Glasnevin",
+        "Drumcondra",
+        "Beaumont",
+        "Raheny"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-059",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 59,
+      "questionText": "Taking the most direct route from Rathmines to Marlay Park, which of the following districts would you pass?",
+      "type": "single",
+      "options": [
+        "Rathgar and Rathfarnham",
+        "Churchtown, Dundrum and Goatstown",
+        "Rathgar, Harold's Cross and Templeogue",
+        "Terenure, Kimmage and Clonskeagh"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-060",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 60,
+      "questionText": "Stephens Place runs one way from which two streets?",
+      "type": "single",
+      "options": [
+        "Mount Street Upper to Mount Street Lower",
+        "Baggot Street Lower to Fitzwilliam Ln",
+        "Baggot Street Lower to Mount Street Upper",
+        "Mount Street Upper to Baggot street lower"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-061",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 61,
+      "questionText": "Morton Stadium is an athletics stadium in what area?",
+      "type": "single",
+      "options": [
+        "UCD",
+        "Howth",
+        "Sutton",
+        "Santry"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-062",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 62,
+      "questionText": "What Street connects Molesworth Street and Nassau Street?",
+      "type": "single",
+      "options": [
+        "Frederick Street South",
+        "Duke Street",
+        "Joshua Lane",
+        "Schoolhouse Lane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-063",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 63,
+      "questionText": "Gracepark Road links which 2 roads?",
+      "type": "single",
+      "options": [
+        "Drumcondra Rd & Richmond Rd",
+        "North Circular Rd & Cabra Rd",
+        "Malahide Rd & Colliins Avenue",
+        "Griffith Avenue & Beaumount Rd"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-064",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 64,
+      "questionText": "In what area is the Nangor Road?",
+      "type": "single",
+      "options": [
+        "Ballymun",
+        "Blanchardstown",
+        "Tallaght",
+        "Clondalkin Vv"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-065",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 65,
+      "questionText": "Malahide Road does NOT pass through which area?",
+      "type": "single",
+      "options": [
+        "Raheny",
+        "Malahide",
+        "Clontarf",
+        "Artane"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-066",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 66,
+      "questionText": "Where can the Schoolhouse Pub/Hotel be found?",
+      "type": "single",
+      "options": [
+        "Northumberland Road",
+        "Grand Canal Street Upper",
+        "Cardiff Lane",
+        "Adelaide Road"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-067",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 67,
+      "questionText": "Which road runs directly off Griffith Avenue?",
+      "type": "single",
+      "options": [
+        "Swords Road",
+        "Collins Avenue",
+        "Drumcondra Road",
+        "Glasnevin Avenue"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-068",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 68,
+      "questionText": "In what area is the Omni Park Shopping Centre located?",
+      "type": "single",
+      "options": [
+        "Whitehall",
+        "Santry",
+        "Ballymun",
+        "Beaumont"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-069",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 69,
+      "questionText": "What main road is the Connolly Hospital on?",
+      "type": "single",
+      "options": [
+        "Navan Rd",
+        "Templeogue Road",
+        "Cooley Road",
+        "Howth Road"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-070",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 70,
+      "questionText": "Where does Castle Avenue run from?",
+      "type": "single",
+      "options": [
+        "Clontarf to Howth",
+        "Kilester to Raheny",
+        "Killester to Clontarf",
+        "Dollymount to Kilbarrack"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-071",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 71,
+      "questionText": "Gray Street runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Meath Street to Pimlico",
+        "Donore Street to Francis Street",
+        "Pimlico to Meath Street",
+        "Francais Street to Meath Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-072",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 72,
+      "questionText": "Travelling from Drumcondra to Kilbarrack what areas would you pass?",
+      "type": "single",
+      "options": [
+        "Artane, Donnycarney and Coolock",
+        "Fairview, Clontarf, Raheny",
+        "Fairview, Artane and Coolock",
+        "Fairview, Killester and Raheny"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-073",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 73,
+      "questionText": "In what area is Aqua restaurant?",
+      "type": "single",
+      "options": [
+        "Clontarf",
+        "Howth Vv",
+        "Dalkey",
+        "Dun Laoghaire"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-074",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 74,
+      "questionText": "On what street is the National Leprechaun Museum situated?",
+      "type": "single",
+      "options": [
+        "Mary's Abbey 4",
+        "Henry Street",
+        "Mary Street",
+        "Abbey Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-075",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 75,
+      "questionText": "On which street is Christchurch Cathedral situated?",
+      "type": "single",
+      "options": [
+        "Winetavern Street",
+        "Essex Street West",
+        "Christchurch Place",
+        "Cook Street"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-076",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 76,
+      "questionText": "Jamestown Road joins which two areas?",
+      "type": "single",
+      "options": [
+        "Finglas and Glasnevin",
+        "Santry and Ballymun",
+        "Ballymun and Swords",
+        "Finglas and Ballymun/Poppintree"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-077",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 77,
+      "questionText": "What street is not connected to Aungier Street?",
+      "type": "single",
+      "options": [
+        "Whitefriar Place",
+        "York Street",
+        "Fade Street",
+        "Bishop Street"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-078",
+      "module": "dublin-area",
+      "lessonId": "north-dublin",
+      "questionNumber": 78,
+      "questionText": "On what road is the entrance to Howth DART station located?",
+      "type": "single",
+      "options": [
+        "Howth Road",
+        "Harbour Road",
+        "Coast Road",
+        "Summit Drive"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Place the answer inside a Northside geographic cluster.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "north-dublin",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-079",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 79,
+      "questionText": "What road is Morton Stadium located?",
+      "type": "single",
+      "options": [
+        "Swords Rd +S",
+        "iG Ballymun Rd",
+        "Grifftih Ave",
+        "Santry Ave"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-080",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 80,
+      "questionText": "On which street is the Kilmainham Gaol Museum located?",
+      "type": "single",
+      "options": [
+        "Emmet Road",
+        "Old Kilmainham Road",
+        "South Circular Road",
+        "Inchicore Road"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-081",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 81,
+      "questionText": "Taking the most direct route from Walkinstown to Ranelagh, which of the following areas would you pass?",
+      "type": "single",
+      "options": [
+        "Donnybrook and Ballsbridge",
+        "Terenure and Kimmage",
+        "Kimmage and Rathgar",
+        "Drimnagh and Terenure"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-082",
+      "module": "dublin-area",
+      "lessonId": "one-way-streets",
+      "questionNumber": 82,
+      "questionText": "Green Street runs one-way between which of the following streets?",
+      "type": "single",
+      "options": [
+        "Bolton Street to Little Britain Street",
+        "Little Britain Street to Bolton Street",
+        "Beresford Street to Cuckoo Lane",
+        "Cuckoo Lane to Little Britain Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Read the answer as a directional arrow from the first street to the second.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "one-way-streets",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-083",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 83,
+      "questionText": "Which of these roads does not pass through Phoenix park?",
+      "type": "single",
+      "options": [
+        "Chesterfield ave",
+        "Acres Rd",
+        "Military road",
+        "North Rd"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-084",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 84,
+      "questionText": "Where is the National Rehabilitation Centre located?",
+      "type": "single",
+      "options": [
+        "Monkstown Avenue",
+        "Carysfort Avenue",
+        "Rochestown Avenue",
+        "Newtown Park Avenue"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-085",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 85,
+      "questionText": "What road runs from St Stephen's Green to Adelaide Road?",
+      "type": "single",
+      "options": [
+        "Harcourt Street",
+        "York Street",
+        "Earlsfort Terrace Ss",
+        "Hatch Street Lower"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-086",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 86,
+      "questionText": "Which national road directly connects Whitehall to City Center?",
+      "type": "single",
+      "options": [
+        "N11",
+        "N2",
+        "N1",
+        "N3"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-087",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 87,
+      "questionText": "North Road leads onto which of the following roads?",
+      "type": "single",
+      "options": [
+        "Finglas Road",
+        "Cappagh Road",
+        "Jamestown Road",
+        "Melville Road"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-088",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 88,
+      "questionText": "On which street is the National Wax Museum located?",
+      "type": "single",
+      "options": [
+        "Westmoreland Street",
+        "Collins Barracks",
+        "Thomas Street",
+        "Parnell Square North"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-089",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 89,
+      "questionText": "Where is the Bon Secours Hospital located?",
+      "type": "single",
+      "options": [
+        "Finglas",
+        "Drumcondra",
+        "Glasnevin",
+        "Whitehall"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-090",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 90,
+      "questionText": "Which of the following Quays is NOT on the North side?",
+      "type": "single",
+      "options": [
+        "Arran Quay",
+        "Ellis Quay",
+        "( (S } Eden Quay",
+        "Wood Quay Vv"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-091",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 91,
+      "questionText": "On what street is the National Library of Ireland?",
+      "type": "single",
+      "options": [
+        "Stocking Lane",
+        "Dawson Street",
+        "St. Patrick's Close",
+        "Kildare Street"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-092",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 92,
+      "questionText": "What is the main road taken from the City Centre to Palmerstown?",
+      "type": "single",
+      "options": [
+        "N4 (R148)",
+        "N14",
+        "na",
+        "N7"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-093",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 93,
+      "questionText": "Grace Park Road connects what two roads?",
+      "type": "single",
+      "options": [
+        "Philipsburgh Avenue and Malahide Road",
+        "Blackpitts Road and James's Avenue",
+        "( (o ) Richmond Road and Collins Avenue",
+        "Drumcondra Road and Mobhi Road"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-094",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 94,
+      "questionText": "In what area is St. Luke's Hospital?",
+      "type": "single",
+      "options": [
+        "Churchtown",
+        "Kimmage",
+        "c } Rathgar",
+        "D | Dundrum"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-095",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 95,
+      "questionText": "On which street is St. Audeon’s Church situated?",
+      "type": "single",
+      "options": [
+        "High Street",
+        "Back Lane",
+        "Lamb Alley",
+        "St. Augustine Street"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-096",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 96,
+      "questionText": "Travelling from Lucan directly to the City Centre, what two roads do you use?",
+      "type": "single",
+      "options": [
+        "N4 and R833",
+        "N4and R109",
+        "N4and R147",
+        "N4and R148"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-097",
+      "module": "dublin-area",
+      "lessonId": "landmarks-culture-entertainment",
+      "questionNumber": 97,
+      "questionText": "On what street is The Abbey Theatre situated?",
+      "type": "single",
+      "options": [
+        "Bachelor's Walk",
+        "Abbey Street Lower",
+        "Abbey Street Middle",
+        "(] Abbey Street Upper"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Attach the landmark to one anchor street and one nearby landmark.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "landmarks-culture-entertainment",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-098",
+      "module": "dublin-area",
+      "lessonId": "institutions-services-venues",
+      "questionNumber": 98,
+      "questionText": "Trinity College Dublin (TCD) is situated where?",
+      "type": "single",
+      "options": [
+        "Leeson Street",
+        "O'Connell Street",
+        "S } Ballsbridge",
+        "College Green"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Pair the venue name with one exact street or district.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "institutions-services-venues",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-099",
+      "module": "dublin-area",
+      "lessonId": "roads-routes-connections",
+      "questionNumber": 99,
+      "questionText": "What main road leads into Newlands Golf Club?",
+      "type": "single",
+      "options": [
+        "Calmount Road",
+        "Belgard Road",
+        "Cookstown Road",
+        "Green Isle Road"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Create a three-part chain: place, connecting road, destination.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "roads-routes-connections",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    },
+    {
+      "id": "DUBLIN-100",
+      "module": "dublin-area",
+      "lessonId": "areas-boundaries-location-logic",
+      "questionNumber": 100,
+      "questionText": "Camden Row runs between which two streets?",
+      "type": "single",
+      "options": [
+        "Clanbrassil Street Lower to South Circular Road",
+        "Bride Street to Peter Row",
+        "Grantham Street to Synge Street",
+        "Wexford Street to Heytesbury Street"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "difficulty": "Medium",
+      "estimatedTime": 30,
+      "explanation": "The correct answer was taken from the green highlight or right-tick shown in the supplied question source. Red-cross selections were treated as incorrect.",
+      "memoryTip": "Use elimination and pay close attention to NOT, closest and directly.",
+      "commonMistake": "Do not choose the red-cross selection from the source. The right tick or green highlight identifies the correct answer.",
+      "tags": [
+        "dublin-area",
+        "areas-boundaries-location-logic",
+        "batch-001-100"
+      ],
+      "source": "USER_SUPPLIED",
+      "version": 1,
+      "lastVerified": "2026-07-12"
+    }
+  ]
+}

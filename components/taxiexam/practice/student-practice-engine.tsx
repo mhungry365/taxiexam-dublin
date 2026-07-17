@@ -391,18 +391,7 @@ export function StudentPracticeEngine({
               {getCorrectAnswerLetters(currentQuestion)}
             </p>
 
-            {currentQuestion.explanation ? (
-              <p className="mt-3 text-sm leading-6">
-                {currentQuestion.explanation}
-              </p>
-            ) : null}
-
-            {currentQuestion.memoryTip ? (
-              <p className="mt-3 rounded-lg bg-white/70 p-3 text-sm leading-6">
-                <strong>Memory tip:</strong>{" "}
-                {currentQuestion.memoryTip}
-              </p>
-            ) : null}
+            
           </div>
         )}
 
@@ -411,7 +400,33 @@ export function StudentPracticeEngine({
             variant="outline"
             onClick={previousQuestion}
             disabled={questionIndex === 0}
-          >
+          ><div className="mt-4 space-y-4">
+
+  {currentQuestion.explanation && (
+    <div className="rounded-xl border border-green-200 bg-green-50 p-4">
+      <h3 className="font-bold text-green-800">
+        ✅ Why is this the correct answer?
+      </h3>
+
+      <p className="mt-2 leading-7">
+        {currentQuestion.explanation}
+      </p>
+    </div>
+  )}
+
+  {currentQuestion.memoryTip && (
+    <div className="rounded-xl border border-blue-200 bg-blue-50 p-4">
+      <h3 className="font-bold text-blue-800">
+        🧠 Memory Pattern
+      </h3>
+
+      <p className="mt-2 leading-7">
+        {currentQuestion.memoryTip}
+      </p>
+    </div>
+  )}
+
+</div>
             Previous
           </Button>
 
